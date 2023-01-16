@@ -17,7 +17,7 @@
 
 ## Resources / examples
 - [Slides](https://drive.google.com/drive/u/0/folders/1YZtWK03TXGCoGmy7WeQYF-BBulZFAbHA)
-- [Photography history](https://github.com/ellennickles/xphoto-s22/blob/main/resources/general-photography.md#history)
+- [Photography history](https://github.com/ellennickles/xphoto-s23/blob/main/resources/general-photography.md#history)
 
 ## Assignment due Tuesday • Feb 1 • 11:59pm
 
@@ -25,7 +25,7 @@
 - **Blog** • Make sure that you have a blog or website set up for this course to post and share your homework (a Google Doc will work, too). If you’re not sure what platform to use, please reach out to me for help.
 - **p5** • Create a free [p5 web editor account](https://editor.p5js.org/) (if you don’t already have one).
 - **Miro** • Create a free [Miro account](https://miro.com/signup/) (you can use any email address).
-- **USB to USB-C adapter** • If your computer doesn't have USB ports, make sure you have a USB to USB-C adapter to use with external webcams for at least the next two weeks ([see note](https://github.com/ellennickles/xphoto-s22#cameras))
+- **USB to USB-C adapter** • If your computer doesn't have USB ports, make sure you have a USB to USB-C adapter to use with external webcams for at least the next two weeks. The adapter must be able to provide both power and transmit data ([see note](https://github.com/ellennickles/xphoto-s22#cameras)) - UPDATE
 
 ### PART 1 • SELECT & REFLECT
 - Select a photograph that you did not take but enjoy looking at or is of the type of imagery that you would like to know more about. Write a blog post, include the image, and describe what you see in the work. What does the image show? Does it tell a story? What qualities do you like best? What does it express? What choices did the photographer make to achieve these impressions and expressions? Why do you imagine the photograph was created? 

@@ -1,6 +1,5 @@
-# Technical Resources
+# Physical Computing
 
-## Physical Computing
 - [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
 - [Electricity: the Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
 - [Microcontroller Pin Functions](https://itp.nyu.edu/physcomp/resources/microcontroller-pin-functions/)
