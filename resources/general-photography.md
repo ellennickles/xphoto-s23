@@ -6,7 +6,7 @@ for Photography](http://www.krages.com/ThePhotographersRight.pdf)
 - [Your Rights as a Photographer](https://petapixel.com/2021/07/08/your-rights-as-a-photographer-in-the-united-states/) (free speech, licensing, photographic evidence, and copyrights)
 
 ## History
-- [Photographic Flux: Photography through time](https://www.photographic-flux.ch/) (use Chrome to translate into English)
+- [Photographic Flux: Photography through time](https://www.photographic-flux.ch/) (English translation available)
 - [Photographic Processes Series](https://www.youtube.com/c/GeorgeEastmanMuseum/search?query=Photographic%20Processes) from the George Eastman Museum (video)
 - [Victoria and Albert Museum Photographic Processes](https://www.vam.ac.uk/articles/photographic-processes) 
 - [Photomediations](https://photomediationsopenbook.net/) 
@@ -32,6 +32,7 @@ for Photography](http://www.krages.com/ThePhotographersRight.pdf)
 - [Photo.com](https://www.all-about-photo.com/photo-events/photo-exhibitions.php) (even more exhibitions)
 
 ## Publications
+- [In the In-Between](https://www.inthein-between.com/)
 - [Aperture Magazine](https://aperture.org/magazine/) (available via NYU library)
 - [Foam Magazine](https://www.foam.org/magazine) (available via NYU library)
 - [British Journal of Photography](https://www.1854.photography/journal/) (available via NYU library)

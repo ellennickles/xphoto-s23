@@ -121,14 +121,15 @@ You will need a **modern laptop**. Four years old or younger is a good rule of t
 - If your computer only has USB-C ports, then you will also need a **USB to USB-C adapter** to connect a Logitech webcam. **Please note: your adapter must be able to transmit data as well as power the camera.** These are also available from the ER, but they can be in high demand and sometimes unavailable to check out. Consider sharing with your classmates or purchasing your own: packs of 2 for ~$10 or less are frequently available on Amazon.
 
 #### Software
-- At the time of this writing, our class will use the following free applications:
-    - **Miro**, our interactive whiteboard for taking notes and sharing our photographs
-    - !!! CHECK THIS !!! **p5.js (p5)**, **ml5.js (ml5)**, **Arduino IDE v1.8.15 or later** (but not 2.0)
-    - **Visual Studio Code** (or code editor of your choice)
+- !!! UPDATE !!! At the time of this writing, our class will use the following free applications:
+    - **[Miro](https://tinyurl.com/xphoto-s23-miro)**, our interactive whiteboard for taking notes and sharing our photographs
+    - **[p5.js (p5)](https://editor.p5js.org/)**, **[ml5.js (ml5)**, **[Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later**
+    - **[Visual Studio Code](https://code.visualstudio.com/)** (or code editor of your choice)
     - NYU’s **Google Workspace**
     - Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [Beta DreamStudio](https://beta.dreamstudio.ai)
-    - [Iriun](https://iriun.com/) to use your phone's camera as a wireless webcam in your PC or Mac
-- (Week 9) We will also use Google Colaboratory, or **Colab**, to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
+    - (Optional) Apps to adjust Logitech webcam settings
+    - (Optional) [Iriun](https://iriun.com/) to use your phone's camera as a wireless webcam in your PC or Mac
+- (Week 9) We will also use Google Colaboratory, or **[Colab](https://colab.research.google.com/)**, to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
     - At the time of this writing three different Colab plans are available: Free, Pro ($9.99 / month), and Pro+ ($49.99 / month). 
     - I highly recommend subscribing to the Colab Pro plan at $9.99 / month when we need it. We will only use Colab for one week, however you may decide to continue to use it for your final project.
     - Monthly subscriptions are easy to cancel at any time. 

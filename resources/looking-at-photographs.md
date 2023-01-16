@@ -1,6 +1,6 @@
 # Looking at Photographs
 
-Select a photograph. Look at it closely and thoughtfully for 30 seconds. (Time yourself: it will feel much longer than you expect.) Then use these questions to practice identifying photographic elements while looking at and analyzing the picture. Copy the questions into a blog post and write your responses quickly and freely. Skip those that are too hard and come back to them later. Refer to the [Elements of a Photograph]() if you need to for additional reference. This activity should take about 20 minutes. There are no right or wrong answers. 
+Select a photograph. Look at it closely and thoughtfully for 30 seconds. (Time yourself: it will feel much longer than you expect.) Then use these questions to practice identifying photographic elements while looking at and analyzing the picture. Copy the questions into a blog post and write your responses quickly and freely. Skip those that are too hard and come back to them later. Refer to the [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md) if you need to for additional reference. This activity should take about 20 minutes. There are no right or wrong answers. 
 
 These questions are adapted from [Marvin Bartel’s Art Teacher Guides](https://www.bartelart.com/) and [Focus on Photography: A Curriculum Guide](https://www.icp.org/content/focus-on-photography) by Cynthia Way for the International Center of Photography, 2006. 
 
