@@ -9,7 +9,6 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 | Instructor   | Ellen Nickles |
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br> On weekdays I aim to respond within 24 hours |
 | Student Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
-| Assignments   | [Schedule and Assignments](https://github.com/ellennickles/xphoto-s23/tree/main/schedule-assignments) |
 | Quick Links  | <br>[Submit assignments](https://forms.gle/bT1L7qHnrvmQ23sN9)<br>[Assignment responses](https://docs.google.com/spreadsheets/d/1jM2FHOgU4pOqUOeeRkm8y8Alw7dfx_1rx9wWxJmycII/edit?resourcekey#gid=1091832231) share TBA<br>[Our Miro Board](https://tinyurl.com/xphoto-s23-miro)<br>[Photography and technical resources](https://github.com/ellennickles/xphoto-s23/tree/main/resources)|  
 
 *This is a living document and subject to change
@@ -114,16 +113,16 @@ Tips for asking for technical help:
 - Ideally, provide a link to the code itself.
 
 ### Equipment
-#### Software
-!!! UPDATE !!! At the time of this writing, our class will use the following free applications:
-- **[Miro](https://tinyurl.com/xphoto-s23-miro)**, our interactive whiteboard for taking notes and sharing our photographs
-- **[p5.js (p5)](https://editor.p5js.org/)**, **[ml5.js (ml5)**, **[Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later**
-- **[Visual Studio Code](https://code.visualstudio.com/)** (or code editor of your choice)
-- NYU’s **Google Workspace**
+#### Software - !!! UPDATE !!! 
+At the time of this writing, our class will use the following free applications:
+- [Miro](https://tinyurl.com/xphoto-s23-miro), our interactive whiteboard for taking notes and sharing our photographs
+- [p5.js (p5)](https://editor.p5js.org/), [ml5.js (ml5)](https://ml5js.org/), [Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later but older versions should also work
+- [Visual Studio Code](https://code.visualstudio.com/) (or code editor of your choice)
+- NYU’s Google Workspace
 - Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [DreamStudio Lite](https://beta.dreamstudio.ai)
 - !!! UPDATE !!! (Optional) Apps to adjust Logitech webcam settings
 - (Optional) [Iriun](https://iriun.com/) to use your phone's camera as a wireless webcam in your PC or Mac
-- (Week 9) We will also use Google Colaboratory, or **[Colab](https://colab.research.google.com/)**, to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
+- (Week 9) We will also use Google Colaboratory, or [Colab](https://colab.research.google.com/), to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
     - At the time of this writing three different Colab plans are available: Free, Pro ($9.99 / month), and Pro+ ($49.99 / month). 
     - I highly recommend subscribing to the Colab Pro plan at $9.99 / month when we need it. We will only use Colab for one week, however you may decide to continue to use it for your final project.
     - Monthly subscriptions are easy to cancel at any time. 
@@ -132,10 +131,10 @@ Tips for asking for technical help:
 
 #### Hardware
 ##### Computers
-You will need a **modern laptop**. Four years old or younger is a good rule of thumb. Limited numbers are available for checkout from the ITP/IMA Equipment Room (ER) and must be returned by the end of the day.
+You will need a modern laptop. Four years old or younger is a good rule of thumb. Limited numbers are available for checkout from the ITP/IMA Equipment Room (ER) and must be returned by the end of the day.
 
 ##### Cameras
-- (Weeks 2-3) We will use external camera devices with our laptops. **USB Logitech webcams** will be demonstrated in class, and I will check out a class set of cameras from the ER for our class to use. Additional cameras are available to check out from the ER for 24-hour reservations.
+- (Weeks 2-3) We will use external camera devices with our laptops. USB Logitech webcams will be demonstrated in class, and I will check out a class set of cameras from the ER for our class to use. Additional cameras are available to check out from the ER for 24-hour reservations.
 - If your computer only has USB-C ports, then you will also need a **USB to USB-C adapter** to connect a Logitech webcam. **Please note: your adapter must be able to transmit data as well as power the camera.** These are also available from the ER, but they can be in high demand and sometimes unavailable to check out. Consider sharing with your classmates or purchasing your own: packs of 2 for ~$10 or less are frequently available on Amazon.
 
 ##### Physical Computing
@@ -159,7 +158,7 @@ This class is highly participatory, and there are many ways to demonstrate your 
 Attendance is mandatory. If you think you will be absent, please contact me as before class unless circumstances make this truly impossible. If you're feeling unwell, please know that I do not require any proof from a medical office, and I will excuse your absence. At most one (1) unexcused absence will be tolerated without affecting your grade. Any more than one (1) unexcused absence will result in a lowering of your final grade by one whole grade for each unexcused absence. For example, two (2) unexcused absences will result in your highest possible grade being a B instead of an A. Three (3) unexcused absences will result in your highest possible grade being a C and so on. Five (5) unexcused absences would result in an automatic F for the course. 
 
 #### Lateness
-You are expected to arrive to class on time and be ready to start at 2:00pm ET. An unexcused lateness of ten (10) minutes or more is equivalent to half (1/2) of one absence. Two (2) late arrivals will count as one (1) unexcused absence. 
+You are expected to arrive to class on time and be ready to start at 10:40am ET. An unexcused lateness of ten (10) minutes or more is equivalent to half (1/2) of one absence. Two (2) late arrivals will count as one (1) unexcused absence. 
 
 ### Overview of Assignments
 All assignments are required, and unless otherwise stated, are **due the night before our class meets**, one (1) week after they are assigned. Assignments turned in late, up to one (1) week, will receive partial credit, as described in the Grading section below. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. 
@@ -184,7 +183,7 @@ Assignments will be evaluated on timeliness, completeness, and engagement with t
 - demonstrates evidence of experimentation with results that are distinct from the examples and other projects;
 - reflects on your resulting images and your experience of making them (e.g. What does/do the image/s show? What qualities do you like best? Consider framing, lighting, composition, and content, etc. What did you have trouble with? What would you do differently next time? Describe the experience of creating the image/s? What did you feel? What was surprising, enjoyable, or challenging?);
 - is submitted on time.
-- For any assignment that uses code, not properly citing code sources is grounds for receiving a 0 on the assignment. For more information, see the statement below on the Use of Free and Open Source Materials Including Code.
+- For any assignment that uses code, not properly citing code sources is grounds for receiving a zero (0) on the assignment. For more information, see the statement below on the Use of Free and Open Source Materials Including Code.
 
 **Written reading responses** are worth four (4 points), one (1) point for each of the following:
 - The response addresses the reading prompt;
