@@ -5,15 +5,16 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 | :--- | :--- |
 | Meeting Time   | Wednesday 10:40am - 12:10pm ET |
 | Location   | 370 Jay Street Brooklyn • Room 313  |
-| Remote Access | This is an in-person course, but sometimes life happens:<br>1. [Log into NYU](https://nyu.zoom.us/)<br>2. [Zoom meeting](https://nyu.zoom.us/j/92723060534?pwd=ZUFXTStIZ1VSR2F5am9pVm16cnZQdz09)|
+| Remote Access | This is an in-person course, but sometimes life happens<br>1. [Log into NYU](https://nyu.zoom.us/)<br>2. [Zoom meeting](https://nyu.zoom.us/j/92723060534?pwd=ZUFXTStIZ1VSR2F5am9pVm16cnZQdz09)|
 | Instructor   | Ellen Nickles |
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br> On weekdays I aim to respond within 24 hours |
 | Student Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
 | Assignments   | [Schedule and Assignments](https://github.com/ellennickles/xphoto-s23/tree/main/schedule-assignments) |
-| Quick Links  | !!! UPDATE !!!<br>[Submit assignments]()<br>[Assignment responses]() share TBA<br>[Our Miro Board](https://tinyurl.com/xphoto-s23-miro)<br>[Photography and technical resources](https://github.com/ellennickles/xphoto-s23/tree/main/resources)|  
+| Quick Links  | <br>[Submit assignments](https://forms.gle/bT1L7qHnrvmQ23sN9)<br>[Assignment responses](https://docs.google.com/spreadsheets/d/1jM2FHOgU4pOqUOeeRkm8y8Alw7dfx_1rx9wWxJmycII/edit?resourcekey#gid=1091832231) share TBA<br>[Our Miro Board](https://tinyurl.com/xphoto-s23-miro)<br>[Photography and technical resources](https://github.com/ellennickles/xphoto-s23/tree/main/resources)|  
+
+*This is a living document and subject to change
 
 ## Schedule and Assignments
-*Subject to change based on interests and needs
  Date | Week | Assignment |
 | :--- | :--- | :--- |
 | Jan 26 | Week 1 | [What is photography?](https://github.com/ellennickles/xphoto-s23/tree/main/schedule-assignments/week1) |
@@ -23,14 +24,14 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 | Feb 16 | Week 4 | Alternative Shutter Buttons 1 | 
 | Feb 23 | Week 5 | Alternative Shutter Buttons 2 | 
 | | | **Unit 2 • Networked Images** |
-| Mar 2 | Week 6 | Networked Images 1 | 
+| Mar 2 | Week 6 | Networked Images 1 / Artist Talk • [Jason Isolini](https://jisolini.com/) | 
 | Mar 9 | Week 7 | Networked Images 2 | 
 | Mar 16 | No classes | Spring Break | 
 | | | **Unit 3 • Appropriation and Automation** |
-| Mar 23 | Week 9 | Automatic Photomontage | 
-| Mar 23 | Week 10 | Generative Images 1 • Datasets | 
-| Mar 30 | Week 11 | Generative Images 2 • GAN Training | 
-| Apr 13 | Week 11 | TBD | 
+| Mar 23 | Week 8 | Automatic Photomontage | 
+| Mar 23 | Week 9 | Generative Images 1 • Datasets | 
+| Mar 30 | Week 10 | Generative Images 2 • GAN Training | 
+| Apr 13 | Week 11 | Artist Talk •   [Zach Nader](https://www.zachnader.art/) | 
 | | | **Final Projects** |
 | Apr 20 | Week 12 | Final Project Proposals | 
 | Apr 27 | Week 13 | Final Project Feedback |
@@ -113,22 +114,15 @@ Tips for asking for technical help:
 - Ideally, provide a link to the code itself.
 
 ### Equipment
-#### Computers
-You will need a **modern laptop**. Four years old or younger is a good rule of thumb. Limited numbers are available for checkout from the ITP/IMA Equipment Room (ER) and must be returned by the end of the day.
-
-#### Cameras
-- !!! CHECK THIS !!! (Weeks 2-3) We will use external camera devices with our laptops. **USB Logitech webcams** will be demonstrated in class, and I will check out a class set of cameras from the ER for our class to use. Additional cameras are available to check out from the ER for 24-hour reservations.
-- If your computer only has USB-C ports, then you will also need a **USB to USB-C adapter** to connect a Logitech webcam. **Please note: your adapter must be able to transmit data as well as power the camera.** These are also available from the ER, but they can be in high demand and sometimes unavailable to check out. Consider sharing with your classmates or purchasing your own: packs of 2 for ~$10 or less are frequently available on Amazon.
-
 #### Software
-- !!! UPDATE !!! At the time of this writing, our class will use the following free applications:
-    - **[Miro](https://tinyurl.com/xphoto-s23-miro)**, our interactive whiteboard for taking notes and sharing our photographs
-    - **[p5.js (p5)](https://editor.p5js.org/)**, **[ml5.js (ml5)**, **[Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later**
-    - **[Visual Studio Code](https://code.visualstudio.com/)** (or code editor of your choice)
-    - NYU’s **Google Workspace**
-    - Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [Beta DreamStudio](https://beta.dreamstudio.ai)
-    - (Optional) Apps to adjust Logitech webcam settings
-    - (Optional) [Iriun](https://iriun.com/) to use your phone's camera as a wireless webcam in your PC or Mac
+!!! UPDATE !!! At the time of this writing, our class will use the following free applications:
+- **[Miro](https://tinyurl.com/xphoto-s23-miro)**, our interactive whiteboard for taking notes and sharing our photographs
+- **[p5.js (p5)](https://editor.p5js.org/)**, **[ml5.js (ml5)**, **[Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later**
+- **[Visual Studio Code](https://code.visualstudio.com/)** (or code editor of your choice)
+- NYU’s **Google Workspace**
+- Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [DreamStudio Lite](https://beta.dreamstudio.ai)
+- !!! UPDATE !!! (Optional) Apps to adjust Logitech webcam settings
+- (Optional) [Iriun](https://iriun.com/) to use your phone's camera as a wireless webcam in your PC or Mac
 - (Week 9) We will also use Google Colaboratory, or **[Colab](https://colab.research.google.com/)**, to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
     - At the time of this writing three different Colab plans are available: Free, Pro ($9.99 / month), and Pro+ ($49.99 / month). 
     - I highly recommend subscribing to the Colab Pro plan at $9.99 / month when we need it. We will only use Colab for one week, however you may decide to continue to use it for your final project.
@@ -136,7 +130,15 @@ You will need a **modern laptop**. Four years old or younger is a good rule of t
     - Access to machine learning resources are increasingly available, and as such, this information is subject to change by the time the course begins.
 - (Optional) You are welcome to use image editing software, such as Photoshop or Lightroom, to post-process the photographs that you make. These programs are available as part of the Adobe Creative Cloud Suite, which NYU provides free of charge. See the [Tisch Adobe Creative Cloud User Guide](https://itp.nyu.edu/help/free-copy-of-adobe/). 
 
-#### Physical Computing
+#### Hardware
+##### Computers
+You will need a **modern laptop**. Four years old or younger is a good rule of thumb. Limited numbers are available for checkout from the ITP/IMA Equipment Room (ER) and must be returned by the end of the day.
+
+##### Cameras
+- (Weeks 2-3) We will use external camera devices with our laptops. **USB Logitech webcams** will be demonstrated in class, and I will check out a class set of cameras from the ER for our class to use. Additional cameras are available to check out from the ER for 24-hour reservations.
+- If your computer only has USB-C ports, then you will also need a **USB to USB-C adapter** to connect a Logitech webcam. **Please note: your adapter must be able to transmit data as well as power the camera.** These are also available from the ER, but they can be in high demand and sometimes unavailable to check out. Consider sharing with your classmates or purchasing your own: packs of 2 for ~$10 or less are frequently available on Amazon.
+
+##### Physical Computing
 - (Weeks 4-5) If you're an IMA student, expect to use the Arduino kit you acquired for your Creative Computing class. Depending on when you took Creative Computing, this might include an Arduino Uno or Nano 33 IoT. Either one will work. Arduino Unos, Nano 33 IoTs, and Nano 33 BLE Senses (which will also work) are listed as available to check out from The Shop.
 - I recommend using sensors that you already have and with which you have previous experience. The Shop also provides some sensors to check out.
 - For general information on electronic components, sensors, their availability at ITP/IMA, and where to purchase them see the [ITP Physical Computing Parts and Tools Guide](https://itp.nyu.edu/physcomp/resources/parts-and-tools-guide/).
