@@ -31,7 +31,7 @@
 
 
 ## Assignment
-Due the night before our next class
+Due the night before our next class. [How to get full credit on weekly wssignments](https://github.com/ellennickles/xphoto-s23#grading). 
 
 ### PART 1 • SET UP
 - **Blog** • Make sure that you have a blog or website set up for this course to post and share your homework (a Google Doc, Notion, etc, will work, too). If you’re not sure what platform to use, please reach out to me for help.
@@ -49,6 +49,7 @@ Due the night before our next class
 - [The Photographer’s Right](https://drive.google.com/drive/u/1/folders/1kxEfgxvYHdQftZY_MBux-shgFjxjFRff) by Bert P. Krages II (2016)
 - [ITP/IMA Code of Conduct](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/index) 
 - Our class engages in experimental practices and also provides space to share our work, engage with that of others, and cultivate ways of collaboratively providing feedback to promote awareness and discovery in our creative practices (i.e. what creative decisions are we making). We’ll talk more about this in class next week. To get started, based on the readings above and on your own experiences, in the same blog post write about ways to foster a class community in which it is safe to experiment with ideas and materials and to share our results with one another.
+- Include at least one (1) question for discussion or further reflection.
 
 ### SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9) (NYU login required)
 
