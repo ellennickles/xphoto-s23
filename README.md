@@ -17,7 +17,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 ## Schedule and Assignments
  Date | Week | Assignment |
 | :--- | :--- | :--- |
-| Jan 26 | Week 1 | [What is photography?](https://github.com/ellennickles/xphoto-s23/tree/main/schedule-assignments/week1) |
+| Jan 26 | Week 1 | [What is photography?](https://github.com/ellennickles/xphoto-s23/tree/main/week1) |
 | | | **Unit 1 • Capture** |
 | Feb 2 | Week 2 | Single Camera | 
 | Feb 9 | Week 3 | Multiple Cameras | 
