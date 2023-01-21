@@ -119,7 +119,7 @@ At the time of this writing, our class will use the following free applications:
 - [p5.js (p5)](https://editor.p5js.org/), [ml5.js (ml5)](https://ml5js.org/), [Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later but older versions should also work
 - [Visual Studio Code](https://code.visualstudio.com/) (or code editor of your choice)
 - NYU’s Google Workspace
-- Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / [DreamStudio Lite](https://beta.dreamstudio.ai)
+- Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) or [DreamStudio Lite](https://beta.dreamstudio.ai)
 - !!! UPDATE !!! (Optional) Apps to adjust Logitech webcam settings
 - (Optional) [Iriun](https://iriun.com/) to use your phone's camera as a wireless webcam in your PC or Mac
 - (Week 9) We will also use Google Colaboratory, or [Colab](https://colab.research.google.com/), to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
@@ -155,7 +155,7 @@ This class is highly participatory, and there are many ways to demonstrate your 
 - unless otherwise directed, stow your phone away and mute any notificatiions unrelated to class;
 
 #### Absences
-Attendance is mandatory. If you think you will be absent, please contact me as before class unless circumstances make this truly impossible. If you're feeling unwell, please know that I do not require any proof from a medical office, and I will excuse your absence. At most one (1) unexcused absence will be tolerated without affecting your grade. Any more than one (1) unexcused absence will result in a lowering of your final grade by one whole grade for each unexcused absence. For example, two (2) unexcused absences will result in your highest possible grade being a B instead of an A. Three (3) unexcused absences will result in your highest possible grade being a C and so on. Five (5) unexcused absences would result in an automatic F for the course. 
+Attendance is mandatory. If you think you will be absent, please contact me before class unless circumstances make this truly impossible. If you're feeling unwell, please know that I do not require any proof from a medical office, and I will excuse your absence. At most one (1) unexcused absence will be tolerated without affecting your grade. Any more than one (1) unexcused absence will result in a lowering of your final grade by one whole grade for each unexcused absence. For example, two (2) unexcused absences will result in your highest possible grade being a B instead of an A. Three (3) unexcused absences will result in your highest possible grade being a C and so on. Five (5) unexcused absences would result in an automatic F for the course. 
 
 #### Lateness
 You are expected to arrive to class on time and be ready to start at 10:40am ET. An unexcused lateness of ten (10) minutes or more is equivalent to half (1/2) of one absence. Two (2) late arrivals will count as one (1) unexcused absence. 
