@@ -9,7 +9,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 | Instructor   | Ellen Nickles |
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br> On weekdays I aim to respond within 24 hours |
 | Student Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
-| Quick Links  | <br>[Submit assignments](https://forms.gle/bT1L7qHnrvmQ23sN9)<br>[Assignment responses](https://docs.google.com/spreadsheets/d/1jM2FHOgU4pOqUOeeRkm8y8Alw7dfx_1rx9wWxJmycII/edit?resourcekey#gid=1091832231) share TBA<br>[Our Miro Board](https://tinyurl.com/xphoto-s23-miro)<br>[Photography and technical resources](https://github.com/ellennickles/xphoto-s23/tree/main/resources)|  
+| Quick Links  | [Submit assignments](https://forms.gle/bT1L7qHnrvmQ23sN9)<br>[Assignment responses](https://docs.google.com/spreadsheets/d/1jM2FHOgU4pOqUOeeRkm8y8Alw7dfx_1rx9wWxJmycII/edit?resourcekey#gid=1091832231) share TBA<br>[Our Miro Board](https://tinyurl.com/xphoto-s23-miro)<br>[Resources](https://github.com/ellennickles/xphoto-s23/tree/main/resources)|  
 
 *This is a living document and subject to change
 
