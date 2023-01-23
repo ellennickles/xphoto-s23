@@ -17,21 +17,17 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
  Date | Week | Assignment |
 | :--- | :--- | :--- |
 | Jan 26 | Week 1 | [What is photography?](https://github.com/ellennickles/xphoto-s23/tree/main/week1) |
-| | | **Unit 1 • Capture** |
 | Feb 2 | Week 2 | Single Camera | 
 | Feb 9 | Week 3 | Multiple Cameras | 
 | Feb 16 | Week 4 | Alternative Shutter Buttons 1 | 
 | Feb 23 | Week 5 | Alternative Shutter Buttons 2 | 
-| | | **Unit 2 • Networked Images** |
 | Mar 2 | Week 6 | Networked Images 1 / Artist Talk • [Jason Isolini](https://jisolini.com/) | 
 | Mar 9 | Week 7 | Networked Images 2 | 
 | Mar 16 | No classes | Spring Break | 
-| | | **Unit 3 • Appropriation and Automation** |
 | Mar 23 | Week 8 | Automatic Photomontage | 
 | Mar 23 | Week 9 | Generative Images 1 • Datasets | 
 | Mar 30 | Week 10 | Generative Images 2 • GAN Training | 
 | Apr 13 | Week 11 | Artist Talk •   [Zach Nader](https://www.zachnader.art/) | 
-| | | **Final Projects** |
 | Apr 20 | Week 12 | Final Project Proposals | 
 | Apr 27 | Week 13 | Final Project Feedback |
 | May 4 | Week 14 | Final Project Presentations | 
