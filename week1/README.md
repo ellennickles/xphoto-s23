@@ -61,7 +61,7 @@ ___
 
 ## Prepare for Weeks 4-5 
 *Tue Feb 14 and Thu Feb 23
-- One these days we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with global supply chain issues and shipping delays these days, please don't wait until the last minute if you need to order anything.
+- On these days we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with global supply chain issues and shipping delays these days, please don't wait until the last minute if you need to order anything.
 - Gather the following materials:
     - Arduino (Uno or Nano 33 IoT depending on when you took Creative Computing)
     - Cables to connect your Arduino to you computer
