@@ -188,7 +188,7 @@ Assignments will be evaluated on timeliness, completeness, and engagement with t
 - includes at least one (1) question to bring to our group for discussion;
 - is submitted on time.
 
-**Late assignments**: weekly assignments will be accepted up to one (1) week late for partial credit.  
+**Late assignments**: unless we make other arrangements due to extenuating circumstances, weekly assignments will be accepted up to one (1) week late for partial credit.  
 
 The final project is expected to be completed in three stages (proposal, prototype, and implementation and presentation). Specific grading criteria for each stage will be provided later in the semester.
 
