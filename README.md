@@ -109,21 +109,20 @@ Tips for asking for technical help:
 - Ideally, provide a link to the code itself.
 
 ### Equipment
-#### Software - !!! UPDATE !!! 
+#### Software
 At the time of this writing, our class will use the following free applications:
 - [Miro](https://tinyurl.com/xphoto-s23-miro), our interactive whiteboard for taking notes and sharing our photographs
 - [p5.js (p5)](https://editor.p5js.org/), [ml5.js (ml5)](https://ml5js.org/), [Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later but older versions should also work
 - [Visual Studio Code](https://code.visualstudio.com/) (or code editor of your choice)
 - NYU’s Google Workspace
 - Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) or [DreamStudio Lite](https://beta.dreamstudio.ai)
-- !!! UPDATE !!! (Optional) Apps to adjust Logitech webcam settings
-- (Optional) [Iriun](https://iriun.com/) to use your phone's camera as a wireless webcam in your PC or Mac
+- [Apps](https://docs.google.com/document/d/1iKVfwT5KNLXXyVVEEyFhxoOsjRT9ciKUbds_inFBKPA) to adjust external webcam settings
 - (Week 9) We will also use Google Colaboratory, or [Colab](https://colab.research.google.com/), to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
     - At the time of this writing three different Colab plans are available: Free, Pro ($9.99 / month), and Pro+ ($49.99 / month). 
     - I highly recommend subscribing to the Colab Pro plan at $9.99 / month when we need it. We will only use Colab for one week, however you may decide to continue to use it for your final project.
     - Monthly subscriptions are easy to cancel at any time. 
     - Access to machine learning resources are increasingly available, and as such, this information is subject to change by the time the course begins.
-- (Optional) You are welcome to use image editing software, such as Photoshop or Lightroom, to post-process the photographs that you make. These programs are available as part of the Adobe Creative Cloud Suite, which NYU provides free of charge. See the [Tisch Adobe Creative Cloud User Guide](https://itp.nyu.edu/help/free-copy-of-adobe/). 
+- (Optional) You are welcome to use image editing software, such as Photoshop or Lightroom, to post-process the photographs that you make. These programs are available as part of the Adobe Creative Cloud Suite, which [NYU provides free of charge](https://itp.nyu.edu/help/free-copy-of-adobe/).
 
 #### Hardware
 ##### Computers
