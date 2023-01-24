@@ -115,7 +115,6 @@ At the time of this writing, our class will use the following free applications:
 - [p5.js (p5)](https://editor.p5js.org/), [ml5.js (ml5)](https://ml5js.org/), [Arduino IDE](https://www.arduino.cc/en/software) v2.0 or later but older versions should also work
 - [Visual Studio Code](https://code.visualstudio.com/) (or code editor of your choice)
 - NYU’s Google Workspace
-- Stability AI's [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) or [DreamStudio Lite](https://beta.dreamstudio.ai)
 - [Apps](https://docs.google.com/document/d/1iKVfwT5KNLXXyVVEEyFhxoOsjRT9ciKUbds_inFBKPA) to adjust external webcam settings
 - (Week 9) We will also use Google Colaboratory, or [Colab](https://colab.research.google.com/), to run code in the browser to train a machine learning model to generate images. A Colab account requires a Google account with a large Google Drive plan, which we already have through NYU; I advise you to create your Colab account through your NYU Google account.
     - At the time of this writing three different Colab plans are available: Free, Pro ($9.99 / month), and Pro+ ($49.99 / month). 
