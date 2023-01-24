@@ -69,12 +69,11 @@ ___
     - Sensor(s) with which you have previous experience or are excited to use (but no buttons or toggle switches!)
     - Resistors and other components required for use with sensor(s) (check The Shop bins!)
     - The [ITP/IMA Shop](https://shop.itp.io/) has some Arduinos and accessories available to check out
-- Install the following apps:
+- Install the following app:
     - [Arduino IDE v2.0 or later](https://www.arduino.cc/en/software) (older versions should also work)
-- Install and test your Arduino:
-    - [Arduino Uno Quickstart Guide](https://docs.arduino.cc/hardware/uno-rev3)
-    - [Arduino Nano 33 IoT Quickstart Guide](https://docs.arduino.cc/hardware/nano-33-iot)
-   
+- Configure and test the IDE for your Aduino:
+   - [Arduino Uno](https://docs.arduino.cc/software/ide-v1/tutorials/getting-started/cores/arduino-avr)
+   - [Arduino Nano 33 IoT](https://docs.arduino.cc/software/ide-v1/tutorials/getting-started/cores/arduino-samd)
 
 
 
