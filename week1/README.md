@@ -71,7 +71,7 @@ ___
     - The [ITP/IMA Shop](https://shop.itp.io/) has some Arduinos and accessories available to check out
 - Install the following app:
     - [Arduino IDE v2.0 or later](https://www.arduino.cc/en/software) (older versions should also work)
-- Configure and test the IDE for your Aduino:
+- Configure and test the IDE with your Aduino:
    - [Arduino Uno](https://docs.arduino.cc/software/ide-v1/tutorials/getting-started/cores/arduino-avr)
    - [Arduino Nano 33 IoT](https://docs.arduino.cc/software/ide-v1/tutorials/getting-started/cores/arduino-samd)
 
