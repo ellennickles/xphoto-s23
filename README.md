@@ -121,7 +121,7 @@ At the time of this writing, our class will use the following free applications:
     - I highly recommend subscribing to the Colab Pro plan at $9.99 / month when we need it. We will only use Colab for one week, however you may decide to continue to use it for your final project.
     - Monthly subscriptions are easy to cancel at any time. 
     - Access to machine learning resources are increasingly available, and as such, this information is subject to change by the time the course begins.
-- (Optional) You are welcome to use image editing software, such as Photoshop or Lightroom, to post-process the photographs that you make. These programs are available as part of the Adobe Creative Cloud Suite, which [NYU provides free of charge](https://itp.nyu.edu/help/free-copy-of-adobe/).
+- (Optional) You are welcome to use image editing software, such as Photoshop or Lightroom, to post-process the photographs that you make. These programs are available as part of the Adobe Creative Cloud Suite, which [NYU provides free of charge](https://itp.nyu.edu/help/free-copy-of-adobe/). If you have trouble with the installation, email the ITP/IMA Adobe Help Desk Team, [adobelicense@itp.nyu.edu](mailto:adobelicense@itp.nyu.edu) for assistance.
 
 #### Hardware
 ##### Computers
