@@ -9,6 +9,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 | Instructor   | Ellen Nickles |
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br> On weekdays I aim to respond within 24 hours |
 | Student Hours  | Tue 1:30pm – 3:30pm<br>Thu 1:30pm – 3:30pm<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for Zoom or in person (near Design Lab) |
+| Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help) | 
 | Quick Links  | [Submit assignments](https://forms.gle/bT1L7qHnrvmQ23sN9)<br>[Assignment responses](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)<br>[Our Miro board](https://tinyurl.com/xphoto-s23-miro)<br>[Photography and technical resources](https://github.com/ellennickles/xphoto-s23/tree/main/resources)<br>[Our Google Drive folder](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) with class slides and readings|  
 
 *This is a living document and subject to change
