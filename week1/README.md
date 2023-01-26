@@ -51,7 +51,7 @@ Bring to class:
 
 ### PART 2 • SELECT & EXPERIMENT & REFLECT
 - Select a photograph that you did not take but enjoy looking at or is of the type of imagery that you would like to know more about. Write a blog post, include the image, and describe what you see in the work. What does the image show? Does it tell a story? What qualities do you like best? What does it express? What choices did the photographer make to achieve these impressions and expressions? Why do you imagine the photograph was created? 
-- Experiment: try to recreate the image with Stability AI’s Stable Diffusion text-to-image model. I recommend using the DreamStudio platform that we used in class and consulting the resources (all linked above). Remember that it's just an experiment! Reflect on the process. What inputs / settings were useful (or not) toward achieving your goal? In your opinion, can text-to-image generators make photographs?
+- Experiment: try to recreate the image with Stability AI’s Stable Diffusion text-to-image model. I recommend using the DreamStudio platform that we used in class and consulting the resources (all linked above). If that one doesn't work, then try the other version (also linked above). Remember that it's just an experiment! Reflect on the process. What inputs / settings were useful (or not) toward achieving your goal? In your opinion, can text-to-image generators make photographs?
 - Be prepared to share and talk about the images in our next class. 
 
 ### PART 3 • [READ](https://drive.google.com/drive/u/1/folders/1kxEfgxvYHdQftZY_MBux-shgFjxjFRff) & RESPOND
