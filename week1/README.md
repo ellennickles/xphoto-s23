@@ -40,6 +40,7 @@
 
 ## Assignment due Tues Jan 31
 Bring to class:
+- **p5** • Create a free [p5 web editor account](https://editor.p5js.org/) (if you don’t already have one).
 - **USB to USB-C adapter** • If your computer only has USB-C ports, then you will need a **USB to USB-C adapter** to connect a Logitech webcam. **Please note: your adapter must be able to transmit data as well as power the camera.** These are also available from the ER, but they can be in high demand and sometimes unavailable to check out. Consider sharing with your classmates or purchasing your own: packs of 2 for ~$10 or less are frequently available on [Amazon](https://www.amazon.com/JSAUX-Adapter-Compatible-MacBook-Samsung/dp/B07BS8SRWH/ref=sr_1_1_sspa?crid=19JSU1Q8TES9N&keywords=USB%2BC%2Bto%2BUSB%2BAdapter%2Bjsaux&qid=1674232278&s=electronics&sprefix=usb%2Bc%2Bto%2Busb%2Badapter%2Bjsaux%2Celectronics%2C65&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVlJBRTVLWlNCMEw1JmVuY3J5cHRlZElkPUEwOTI0ODY2M1QzQVFRQ09ZT05ETiZlbmNyeXB0ZWRBZElkPUEwMzMxNjUzMkpXTVMwWUFYWkhMQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1).
 
 ## Assignment due night of Wed Feb 1 
@@ -47,8 +48,6 @@ Bring to class:
 
 ### PART 1 • SET UP
 - **Blog** • Make sure that you have a blog or website set up for this course to post and share your homework (a Google Doc, Notion, etc., will work too). If you’re not sure what platform to use, please reach out to me for help.
-- **p5** • Create a free [p5 web editor account](https://editor.p5js.org/) (if you don’t already have one).
-- **Miro** • Create a free [Miro account](https://miro.com/signup/) (you can use any email address).
 
 ### PART 2 • SELECT & EXPERIMENT & REFLECT
 - Select a photograph that you did not take but enjoy looking at or is of the type of imagery that you would like to know more about. Write a blog post, include the image, and describe what you see in the work. What does the image show? Does it tell a story? What qualities do you like best? What does it express? What choices did the photographer make to achieve these impressions and expressions? Why do you imagine the photograph was created? 
