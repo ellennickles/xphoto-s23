@@ -16,18 +16,26 @@
 - [Survey](https://forms.gle/XJ4bYoyAWoLGSZxa7) (NYU login required)
 
 ### Resources
-- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) share TBA
+- [Class Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 
 ## Class 2 • Thu Jan 26 • Workshop
 ### In class
 - Workshop: Then and Now
 
 ### Resources
-- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) share TBA
+- [Class Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 - [More photography history](https://github.com/ellennickles/xphoto-s23/blob/main/resources/general-photography.md#history)
 - 1843: [Photographs of British Algae: Cyanotype Impressions](https://digitalcollections.nypl.org/collections/photographs-of-british-algae-cyanotype-impressions#/?tab=navigation) by Anna Atkins, "the first photographic work by a woman, and the first book produced entirely by photographic means", available online at the [New York Public Library](https://www.nypl.org/events/exhibitions/blue-prints-pioneering-photographs-anna-atkins)
 - 1844: [The Pencil of Nature](https://www.gutenberg.org/files/33447/33447-h/33447-h.html) by William Henry Fox Talbot
-- ...more to be added after our Jan 26 workshop
+- 2018: [This Online AI Tool Takes Your Words and Turns Them Into Nightmares](https://gizmodo.com/this-online-ai-tool-takes-your-words-and-turns-them-int-1828413827), text-to-image generation just five (5) years ago with AttnGAN
+- 2023: Text-to-image generation with Stability AI's tools
+    - Stability AI's [DreamStudio Lite](https://beta.dreamstudio.ai) (what we used in class)
+        - Free account with up to 500 generated images at default settings 
+        - I recommend reading through the Prompt Guide and watching the short tutorial videos in the FAQ
+    - [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion), no account required but not as fast with mixed results?
+    - [Stable Diffusion v2.1 and DreamStudio Updates 7-Dec 22](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022), with examples of photorealistic(?) possibilities
+    - [LAION Blog](https://laion.ai/blog/) about the Stable Diffusion datasets
+    - [Generative AI is Here. Who Should Control It?](https://podcasts.apple.com/us/podcast/generative-ai-is-here-who-should-control-it/id1528594034?i=1000583401762), a conversation with founder, Emad Mostaque, on the NYTimes Hard Fork podcast
 
 
 ## Assignment due Tues Jan 31
@@ -42,10 +50,10 @@ Bring to class:
 - **p5** • Create a free [p5 web editor account](https://editor.p5js.org/) (if you don’t already have one).
 - **Miro** • Create a free [Miro account](https://miro.com/signup/) (you can use any email address).
 
-### PART 2 • SELECT & REFLECT (...will be updated after our Jan 26 workshop)
+### PART 2 • SELECT & EXPERIMENT & REFLECT
 - Select a photograph that you did not take but enjoy looking at or is of the type of imagery that you would like to know more about. Write a blog post, include the image, and describe what you see in the work. What does the image show? Does it tell a story? What qualities do you like best? What does it express? What choices did the photographer make to achieve these impressions and expressions? Why do you imagine the photograph was created? 
-- ...more to be added after our Jan 26 workshop
-- Be prepared to share and talk about the image in our next class. 
+- Experiment: try to recreate the image with Stability AI’s Stable Diffusion text-to-image model. I recommend using the DreamStudio platform that we used in class and consulting the resources (all linked above). Remember that it's just an experiment! Reflect on the process. What inputs / settings were useful (or not) toward achieving your goal? In your opinion, can text-to-image generators make photographs?
+- Be prepared to share and talk about the images in our next class. 
 
 ### PART 3 • [READ](https://drive.google.com/drive/u/1/folders/1kxEfgxvYHdQftZY_MBux-shgFjxjFRff) & RESPOND
 - [The Rules](http://manifestos.mombartz.com/immaculate-heart-college-art-department-rules/) by [Sister Corita Kent](https://www.corita.org/) (1967-1968)
