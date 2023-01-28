@@ -7,14 +7,25 @@
   - [Breadboard Layouts](https://itp.nyu.edu/physcomp/labs/breadboard-layouts/)
   - [Introduction to the Nano 33 IoT](https://itp.nyu.edu/physcomp/introduction-to-the-nano-33-iot/)
   - [Arduino Uno (Classic) Board Anatomy](https://docs.arduino.cc/tutorials/uno-rev3/BoardAnatomy) and [Overview of the Arduino UNO Components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board)
+  - [Arduino Language Reference](https://www.arduino.cc/reference/en/)
 - Setup
   - Install the following app:
     - [Arduino IDE v2.0 or later](https://www.arduino.cc/en/software) (older versions should also work)
   - Configure and test the IDE with your Arduino:
     - [Arduino Uno](https://docs.arduino.cc/software/ide-v1/tutorials/getting-started/cores/arduino-avr)
     - [Arduino Nano 33 IoT](https://docs.arduino.cc/software/ide-v1/tutorials/getting-started/cores/arduino-samd)
+- Connecting Arduino and p5.js
+  - [Asynchronous Serial Communication: The Basics](https://itp.nyu.edu/physcomp/lessons/serial-communication-the-basics/)
+  - [Lab: Serial Input to p5.js Using the p5.webserial Library](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-webserial-input-to-p5-js/) (Our workshop will look similar to this lab. We'll walk through everything step-by-step.)
+  - Arduino Tilt (Accelerometer data) and Rotation (Gyrometer data) to p5.js: [Serial IMU Output to p5.js Using p5.webserial](https://itp.nyu.edu/physcomp/labs/lab-serial-imu-output-to-p5-js/) 
 - Parts
   - [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
-  - [ITP Physical Computing Parts and Tools Guide](https://itp.nyu.edu/physcomp/resources/parts-and-tools-guide/)
-- Labs
-  - [Lab: Serial Input to p5.js Using the p5.webserial Library](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-webserial-input-to-p5-js/) (Our workshop will look similar to this lab. We'll walk through everything step-by-step.)
+  - [Parts and Tools Guide](https://itp.nyu.edu/physcomp/resources/parts-and-tools-guide/) / [Suppliers](https://itp.nyu.edu/physcomp/resources/suppliers/)
+  - [ITP/IMA Equipment Room and Shop Items](https://itp.nyu.edu/er)
+- Soldering
+  - [Collin’s Lab: Soldering](https://www.youtube.com/watch?v=QKbJxytERvg)
+  - [How to Solder](https://vimeo.com/107049478)
+  - [ITP PComp Lab: Soldering](https://itp.nyu.edu/physcomp/labs/soldering/)
+  - [Adafruit Guide To Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?embeds=allow)
+  - [Collin’s Lab: Desoldering](https://www.youtube.com/watch?v=N_dvf45hN6Y)
+  - [Learning Soldering for Electronics](https://www.linkedin.com/learning-login/share?account=2131553&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-soldering-for-electronics%3Ftrk%3Dshare_ent_url%26shareId%3DzP44%252B6ESQNSvBIZmMQAC5Q%253D%253D) ([LinkedIn Learning](https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph006248819))
