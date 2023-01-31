@@ -13,7 +13,7 @@
 - Workshop: Making Photographs with p5.js
 
 ### Resources
-- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) share TBA
+- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 - [Website Demos](https://ellennickles.github.io/demos/) (with video input device example)
 - p5 starter sketches (use Chrome)
     - [Save canvas with built-in camera](https://editor.p5js.org/enickles/sketches/WohBZl9AG)
@@ -31,6 +31,7 @@
 - Discuss our weekly sharing sessions
 
 ### Resources
+- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) share TBA
 - [Elements of a Photograph]() link TBA on Tues Feb 2
 - [Looking at Photographs]() link TBA on Tues Feb 2
 
