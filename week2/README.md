@@ -48,7 +48,7 @@
 
 ### PART 2 • [READ](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) & RESPOND
 - The “decisive moment” is a recurring idea in photography. Read the Introduction to *The Decisive Moment* by Henri Cartier-Bresson (1952) and an "Interview with Henri Cartier-Bresson from Famous Photographers Tell How (1958)" on American Suburb-X. 
-- Select a photograph from the book, *The Decisive Moment* (video content warning: nudity) that exemplifies this idea for you. Take a screenshot of the selected picture, add it to your blog post, and answer all of the questions in [Looking at Photographs]() (link TBA), including why it represents a "decisive moment", to practice reading the elements of a photograph. HINT: Drop your screenshot into a Google Image Search to find a better version? 
+- Select a photograph from the book, *The Decisive Moment* (video content warning: nudity) that exemplifies this idea for you. Take a screenshot of the selected picture, add it to your blog post, and answer all of the questions in [Looking at Photographs]() (link TBA), including why it represents a "decisive moment" to you, to practice reading the elements of a photograph. HINT: Drop your screenshot into a Google Image Search to find a better version? 
 - Be sure to include at least one (1) question for discussion or further reflection.
 
 ### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9)
