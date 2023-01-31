@@ -16,14 +16,14 @@
 - [Survey](https://forms.gle/XJ4bYoyAWoLGSZxa7) (NYU login required)
 
 ### Resources
-- [Class Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
+- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 
 ## Class 2 • Thu Jan 26 • Workshop
 ### In class
 - Workshop: Then and Now
 
 ### Resources
-- [Class Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
+- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 - [Photography Is](https://mishkahenner.com/Photography-Is) by Mishka Henner
 - [More photography history](https://github.com/ellennickles/xphoto-s23/blob/main/resources/general-photography.md#history)
 - 1843: [Photographs of British Algae: Cyanotype Impressions](https://digitalcollections.nypl.org/collections/photographs-of-british-algae-cyanotype-impressions#/?tab=navigation) by Anna Atkins, "the first photographic work by a woman, and the first book produced entirely by photographic means", available online at the [New York Public Library](https://www.nypl.org/events/exhibitions/blue-prints-pioneering-photographs-anna-atkins)
