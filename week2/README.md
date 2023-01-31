@@ -23,7 +23,7 @@
 - [External Webcams / Apps / Tips](https://tinyurl.com/externalwebcams): an evolving document of devices, apps, and troubleshooting tips
 
 
-## Class 2 • Tue Feb 2 • Share
+## Class 2 • Thu Feb 2 • Share
 
 ### In class
 - Share our selected photographs on Miro
