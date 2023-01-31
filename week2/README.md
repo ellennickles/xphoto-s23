@@ -1,4 +1,4 @@
-# Feb 2 • Week 2 • Single Camera
+# Week 2 • Single Camera
 
 > The task of the cinema and of the camera is not to imitate the human eye, but to see and record what the human eye normally does not see… The camera can function independently, can see in ways that [a human] is not accustomed to--can suggest new points of view and demonstrate how to look at things differently. ([Osip Brik](https://en.wikipedia.org/wiki/Osip_Brik), “What the Eye Does Not See”, 1926)
 
