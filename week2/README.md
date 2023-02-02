@@ -37,7 +37,7 @@
 
 
 ## Assignment due night of Mon Feb 6
-[How to get full credit on weekly assignments.](https://github.com/ellennickles/xphoto-s23#grading) 
+[How to get full credit on weekly assignments.](https://github.com/ellennickles/xphoto-s23#overview-of-assignments) 
 
 ### PART 1 • EXPERIMENT & REFLECT
 - The goal this week is to get used to using our laptops to make pictures. It might feel unusual or awkward at first, but the computer and p5 provide opportunities to design our own camera systems. We’ll build on the features over the next few weeks. Play and get to know this image-making device.
