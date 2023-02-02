@@ -31,7 +31,7 @@
 - Discuss our weekly sharing sessions
 
 ### Resources
-- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) share TBA
+- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 - [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md)
 - [Looking at Photographs](https://github.com/ellennickles/xphoto-s23/blob/main/resources/looking-at-photographs.md) 
 
