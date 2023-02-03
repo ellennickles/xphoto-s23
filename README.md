@@ -15,23 +15,23 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 *This is a living document and subject to change
 
 ## Schedule and Assignments
- Date | Week | Assignment |
+ Week | Dates | Assignment |
 | :--- | :--- | :--- |
-| Jan 26 | Week 1 | [What is photography?](https://github.com/ellennickles/xphoto-s23/tree/main/week1) |
-| Feb 2 | Week 2 | [Single Camera](https://github.com/ellennickles/xphoto-s23/tree/main/week2) | 
-| Feb 9 | Week 3 | Multiple Cameras | 
-| Feb 16 | Week 4 | Alternative Shutter Buttons 1 | 
-| Feb 23 | Week 5 | Alternative Shutter Buttons 2 | 
-| Mar 2 | Week 6 | Networked Images 1 / Artist Talk • [Jason Isolini](https://jisolini.com/) | 
-| Mar 9 | Week 7 | Networked Images 2 | 
-| Mar 16 | No classes | Spring Break | 
-| Mar 23 | Week 8 | Automatic Photomontage | 
-| Mar 23 | Week 9 | Generative Images 1 • Datasets | 
-| Mar 30 | Week 10 | Generative Images 2 • GAN Training | 
-| Apr 13 | Week 11 | Artist Talk •   [Zach Nader](https://www.zachnader.art/) | 
-| Apr 20 | Week 12 | Final Project Proposals | 
-| Apr 27 | Week 13 | Final Project Feedback |
-| May 4 | Week 14 | Final Project Presentations | 
+| Week 1 | Jan 24 • Jan26  | [What is photography?](https://github.com/ellennickles/xphoto-s23/tree/main/week1) |
+| Week 2 | Jan 31 • Feb 2 | [Single Camera](https://github.com/ellennickles/xphoto-s23/tree/main/week2) | 
+| Week 3 | Feb 7 • Feb 9| Multiple Cameras | 
+| Week 4| Feb 14 • Feb 16 | Alternative Shutter Buttons 1 | 
+| Week 5| Feb 21 • Feb 23 | Alternative Shutter Buttons 2 | 
+| Week 6 | Feb 28 • Mar 2 | Networked Images 1 / Artist Talk • [Jason Isolini](https://jisolini.com/) | 
+| Week 7 | Mar 7 • Mar 9 | Networked Images 2 | 
+| Spring  Break | No classes | 
+| Week 8| Mar 21 • Mar 23 | Automatic Photomontage | 
+| Week 9 | Mar 28 • Mar 30| Generative Images 1 • Datasets | 
+| Week 10| Apr 4 • Apr 6  | Generative Images 2 • GAN Training | 
+| Week 11| Apr 11 • Apr 13  | Artist Talk •   [Zach Nader](https://www.zachnader.art/) | 
+| Week 12| Apr 18 • Apr 20  | Final Project Proposals | 
+| Week 13| Apr 25 • Apr 27  | Final Project Feedback |
+| Week 14 | May 2 • May 4  | Final Project Presentations | 
 
 ## Syllabus
 
