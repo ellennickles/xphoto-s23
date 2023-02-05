@@ -1,18 +1,21 @@
 # General Photography
 
 ## Rights in the United States
+
 - [The Photographer’s Right: Your Rights and Remedies When Stopped or Confronted
 for Photography](http://www.krages.com/ThePhotographersRight.pdf)
 - [Your Rights as a Photographer](https://petapixel.com/2021/07/08/your-rights-as-a-photographer-in-the-united-states/) (free speech, licensing, photographic evidence, and copyrights)
 
 ## History
+
 - [Photographic Flux: Photography through time](https://www.photographic-flux.ch/) (English translation available)
 - [Photographic Processes Series](https://www.youtube.com/c/GeorgeEastmanMuseum/search?query=Photographic%20Processes) from the George Eastman Museum (video)
-- [Victoria and Albert Museum Photographic Processes](https://www.vam.ac.uk/articles/photographic-processes) 
-- [Photomediations](https://photomediationsopenbook.net/) 
+- [Victoria and Albert Museum Photographic Processes](https://www.vam.ac.uk/articles/photographic-processes)
+- [Photomediations](https://photomediationsopenbook.net/)
 - [Digitalkamera Museum](https://www.digitalkameramuseum.de/en/)
- 
-## Online Archives / Exhibitions / Events / Education / Museums 
+
+## Online Archives / Exhibitions / Events / Education / Museums
+
 - [Penumbra Foundation](https://www.penumbrafoundation.org) (New York, NY)
 - [International Center of Photography (ICP)](https://www.icp.org/) (New York, NY)
 - [New York Public Library Digital Collections: Photography](https://digitalcollections.nypl.org/collections/lane/photography-collections) (New York, NY)
@@ -22,8 +25,8 @@ for Photography](http://www.krages.com/ThePhotographersRight.pdf)
 - [Pier 24 Photography](https://pier24.org/) (San Francisco, California)
 - [The J. Paul Getty Museum Photography Collection](http://www.getty.edu/art/photographs/) (Los Angeles, California)
 - [The Photographers’ Gallery](https://thephotographersgallery.org.uk/) (London, UK)
-    - [Photography Culture](https://thephotographersgallery.org.uk/photography-culture) (photography in a wider context)
-    - [unthinking photography](https://unthinking.photography/) (photography's automated networked life)
+  - [Photography Culture](https://thephotographersgallery.org.uk/photography-culture) (photography in a wider context)
+  - [unthinking photography](https://unthinking.photography/) (photography's automated networked life)
 - [Fotomuseum Winterthur](https://www.fotomuseum.ch/en/) (Winterthur, Switzerland)
 - [Fotografiemuseum Amsterdam (Foam)](https://www.foam.org/) (Amsterdam, The Netherlands)
 - [Victoria and Albert Museum Photography Centre](https://www.vam.ac.uk/collections/photographs) / [V&A Images: Photography](https://www.vandaimages.com/collections.asp?cat1=Photography&cat2=Photography) (London, UK)
@@ -32,6 +35,7 @@ for Photography](http://www.krages.com/ThePhotographersRight.pdf)
 - [Photo.com](https://www.all-about-photo.com/photo-events/photo-exhibitions.php) (even more exhibitions)
 
 ## Publications
+
 - [In the In-Between](https://www.inthein-between.com/)
 - [Aperture Magazine](https://aperture.org/magazine/) (available via NYU library)
 - [Foam Magazine](https://www.foam.org/magazine) (available via NYU library)
