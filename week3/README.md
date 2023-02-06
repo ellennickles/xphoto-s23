@@ -4,16 +4,16 @@
 
 ## Questions
 
-- How can we use our Questions for Discovery as tools to draw awareness to and articulate how we read photographs?
+- How can we use our [Questions for Discovery](https://github.com/ellennickles/xphoto-s23/blob/main/resources/questions-for-discovery.md) as tools to draw awareness to and articulate how we read photographs?
 - What is Cartier-Bresson’s “decisive moment”?
 - How does that idea compare to Nick Waplington's "indecisive memento"?
 - How can we work with multiple cameras in p5 to capture a moment from multiple angles simultaneously?
 
-## Class 1 • Tue Feb 7 • Share
+## Class 1 • Tue Feb 7 • Share Week 2 Homework
 
 ### In class
 
-- Practice Questions for Discovery
+- Practice [Questions for Discovery](https://github.com/ellennickles/xphoto-s23/blob/main/resources/questions-for-discovery.md)
 - Homework review
 
 ### Resources
