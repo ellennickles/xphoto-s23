@@ -17,23 +17,49 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 
 ## Schedule and Assignments
 
- Week | Dates | Assignment |
-| :--- | :--- | :--- |
-| Week 1 | Jan 24 • Jan26  | [What is photography?](https://github.com/ellennickles/xphoto-s23/tree/main/week1) |
-| Week 2 | Jan 31 • Feb 2 | [Single Camera](https://github.com/ellennickles/xphoto-s23/tree/main/week2) |
-| Week 3 | Feb 7 • Feb 9| Multiple Cameras |
-| Week 4| Feb 14 • Feb 16 | Alternative Shutter Buttons 1 |
-| Week 5| Feb 21 • Feb 23 | Alternative Shutter Buttons 2 |
-| Week 6 | Feb 28 • Mar 2 | Networked Images 1 / Artist Talk • [Jason Isolini](https://jisolini.com/) |
-| Week 7 | Mar 7 • Mar 9 | Networked Images 2 |
-| Spring  Break | No classes |
-| Week 8| Mar 21 • Mar 23 | Automatic Photomontage |
-| Week 9 | Mar 28 • Mar 30| Generative Images 1 • Datasets |
-| Week 10| Apr 4 • Apr 6  | Generative Images 2 • GAN Training |
-| Week 11| Apr 11 • Apr 13  | Artist Talk •   [Zach Nader](https://www.zachnader.art/) |
-| Week 12| Apr 18 • Apr 20  | Final Project Proposals |
-| Week 13| Apr 25 • Apr 27  | Final Project Feedback |
-| Week 14 | May 2 • May 4  | Final Project Presentations |
+- [Week 1](https://github.com/ellennickles/xphoto-s23/tree/main/week1)
+  - Tue Jan 24 • Welcome and What is photography?
+  - Thu Jan 26 • Workshop: Then and Now
+- [Week 2](https://github.com/ellennickles/xphoto-s23/tree/main/week2)
+  - Tue Jan 31 • Workshop: Making photographs with p5.js
+  - Thu Feb 2 • Share Week 1 Homework
+- [Week 3](https://github.com/ellennickles/xphoto-s23/tree/main/week3)
+  - Tue Feb 7 • Share Week 2 Homework
+  - Thu Feb 9 • Workshop: Multiple Cameras, Simultaneous Captures
+- Week 4
+  - Tue Feb 14 • Workshop: Alternative Shutter Buttons 1
+  - Thu Feb 16 • Share Week 3 Homework
+- Week 5
+  - Tue Feb 21 • Share Week 4 Homework
+  - Thu Feb 23 • Workshop: Alternative Shutter Buttons 2
+- Week 6
+  - Tue Feb 28 • Workshop: Networked Images 1
+  - Thu Mar 2 • Artist Talk: [Jason Isolini](https://jisolini.com/)
+- Week 7:
+  - Tue Mar 7 • Share Week 5 or 6 Homework
+  - Thu Mar 9 • Workshop: Networked Images 2
+- Spring Break (No Classes)
+- Week 8:
+  - Tue Mar 21 • Share Week 7 Homework
+  - Thu Mar 23 • Workshop: Automatic Photomontage
+- Week 9:
+  - Tue Mar 28 • Workshop: Generative Images 1 (Datasets)
+  - Thu Mar 30 • Share Week 8 Homework
+- Week 10:
+  - Tue Apr 4 • Share Week 9 Homework, Workshop: Generative Images 2 (Gan Training)
+  - Thu Apr 6 • Workshop continued
+- Week 11:
+  - Tue Apr 11 • Share Week 10 Homework, Final Project Assigned
+  - Thu Apr 13 • Artist Talk: [Zach Nader](https://www.zachnader.art/)
+- Week 12: Final Project Proposals
+  - Tue Apr 18 • Proposals Group 1
+  - Thu Apr 20 • Proposals Group 2
+- Week 13: Final Project Testing
+  - Tue Apr 25 • Testing Group 1
+  - Thu Apr 27 • Testing Group 2
+- Week 14: Final Project Presentations
+  - Tue May 2 • Presentations Group 1
+  - Thu May 4 • Presentations Group 2
 
 ## Syllabus
 
