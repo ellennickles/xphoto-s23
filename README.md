@@ -21,7 +21,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
   - Tue Jan 24 • Welcome and What is photography?
   - Thu Jan 26 • Workshop: Then and Now
 - [Week 2](https://github.com/ellennickles/xphoto-s23/tree/main/week2)
-  - Tue Jan 31 • Workshop: Making photographs with p5.js
+  - Tue Jan 31 • Workshop: Making Photographs with p5.js
   - Thu Feb 2 • Share Week 1 Homework
 - [Week 3](https://github.com/ellennickles/xphoto-s23/tree/main/week3)
   - Tue Feb 7 • Share Week 2 Homework
