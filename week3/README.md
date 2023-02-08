@@ -18,7 +18,7 @@
 
 ### Resources
 
-- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) share TBA
+- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 
 ## Class 2 • Thu Feb 9 • Workshop
 
