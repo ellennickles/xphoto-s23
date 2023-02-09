@@ -30,7 +30,7 @@
 
 ## Resources
 
-- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) share TBA
+- [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 - [The Indecisive Memento](https://archive.org/details/indecisivemement0000wapl) by Nick Waplington (1998) on the Internet Archive (free account to borrow online)
 - p5 starter sketches (use Chrome)
   - Set camera order, restart when connecting/disconnecting devices
