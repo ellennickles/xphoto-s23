@@ -42,6 +42,8 @@
     - [Auto update vertical
       cameras](https://editor.p5js.org/enickles/sketches/9vd7ZEG_Q)
     - [Auto update horizontal cameras](https://editor.p5js.org/enickles/sketches/yV3eu1mHG)
+ - Need a timer? Incorporate a timing mechanism from the [Week 2](https://github.com/ellennickles/xphoto-s23/tree/main/week2#resources) sketches
+ - Consider working with additional webcam options added here: [External Webcams / Apps / Tips](https://tinyurl.com/externalwebcams)
 
 ## Assignment due night of Wed Feb 15
 
