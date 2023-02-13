@@ -15,6 +15,7 @@
 
 - Practice [Questions for Discovery](https://github.com/ellennickles/xphoto-s23/blob/main/resources/questions-for-discovery.md)
 - Homework review
+- Related work
 
 ### Resources
 
