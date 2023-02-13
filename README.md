@@ -26,7 +26,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 - [Week 3](https://github.com/ellennickles/xphoto-s23/tree/main/week3)
   - Tue Feb 7 • Share Week 2 Homework
   - Thu Feb 9 • Workshop: Multiple Cameras, Simultaneous Captures
-- Week 4
+- [Week 4](https://github.com/ellennickles/xphoto-s23/tree/main/week4)
   - Tue Feb 14 • Workshop: Alternative Shutter Buttons 1
   - Thu Feb 16 • Share Week 3 Homework
 - Week 5
