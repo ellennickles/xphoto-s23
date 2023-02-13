@@ -17,9 +17,10 @@
 
 - [Class Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
 - Arduino starter sketches
-    - [XPhoto_Analog_Threshold]()
-    - [XPhoto_Analog_Threshold_Timer]()
-    - [XPhoto_Digital_OnOff]()
+    - [XPhoto_Analog_Threshold](https://github.com/ellennickles/xphoto-s23/blob/main/week4/XPhoto_Analog_Threshold.ino)
+    - [XPhoto_Analog_Threshold_Timer](https://github.com/ellennickles/xphoto-s23/blob/main/week4/XPhoto_Analog_Threshold_Timer.ino)
+    - [XPhoto_Analog_Threshold_TimeOfFlight](https://github.com/ellennickles/xphoto-s23/blob/main/week4/XPhoto_Analog_Threshold_TimeOfFlight.ino) (distance sensor)
+     - [XPhoto_Digital_OnOff](https://github.com/ellennickles/xphoto-s23/blob/main/week4/XPhoto_Digital_OnOff.ino)
 - p5 starter sketches (use Chrome)
     - [Serial input to p5](https://editor.p5js.org/enickles/sketches/njKjGNrbr)
 - [Physical computing resources](https://github.com/ellennickles/xphoto-s23/blob/main/resources/physical-computing.md), a review of microcontroller basics, pin functions, breadboard layouts, sensor basics, parts and tools guide, and the lab on serial input to p5.js
