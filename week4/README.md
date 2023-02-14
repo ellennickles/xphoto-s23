@@ -25,7 +25,7 @@
     - [Serial input to p5](https://editor.p5js.org/enickles/sketches/njKjGNrbr)
 - [Physical computing resources](https://github.com/ellennickles/xphoto-s23/blob/main/resources/physical-computing.md), a review of microcontroller basics, pin functions, breadboard layouts, sensor basics, parts and tools guide, and the lab on serial input to p5.js
 
-## Class 2 • Web Feb 16 • Share Week 3 Homework
+## Class 2 • Thu Feb 16 • Share Week 3 Homework
 
 ### In class
 
