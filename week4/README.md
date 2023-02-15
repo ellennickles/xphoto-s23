@@ -46,7 +46,7 @@
 
 - Continue to work in **black and white** again. Take a series of images triggered by a sensor on your Arduino or similar microcontroller. Is the sensor triggering the capture the result of a change (or inactivity) in the environment or in response to an action (or reaction) of the body? Is the triggering active or passive? How does the choice of sensor and its context in the world contribute to the intentions or expressions of the image? The only rule is: no buttons or toggle switches on your Arduino to trigger captures.
 - Choose one of the images to post on your blog, along with a link to the code. Write a short reflection on your process and results. What does the image show? Why do you like the image? What qualities do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/tree/main/resources))? What did you have trouble with? What would you do differently next time? Describe the experience of creating the images? What did you feel? What was surprising, enjoyable, or challenging?
-- If you work with a partner, each person still needs to submit a blog post.
+- If you work with a partner, each person needs to submit a blog post.
 
 ### PART 2 • [READ](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) & RESPOND
 
