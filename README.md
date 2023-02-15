@@ -46,7 +46,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
   - Tue Mar 28 • Workshop: Generative Images 1 (Datasets)
   - Thu Mar 30 • Share Week 8 Homework
 - Week 10:
-  - Tue Apr 4 • Share Week 9 Homework, Workshop: Generative Images 2 (Gan Training)
+  - Tue Apr 4 • Share Week 9 Homework, Workshop: Generative Images 2 (GAN Training)
   - Thu Apr 6 • Workshop continued
 - Week 11:
   - Tue Apr 11 • Share Week 10 Homework, Final Project Assigned
