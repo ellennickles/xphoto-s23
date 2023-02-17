@@ -36,7 +36,6 @@
 
 - [Class
   Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
-  share TBA
 
 ## Assignment due night of Mon Feb 20
 
