@@ -66,7 +66,7 @@
   information/data an image contains, and the contexts in which images are made
   and distributed (Bertrand).
   - What is your reponse to the idea that non-human operated, remote cameras are
-  more "objective" and "authentic"?. Is your response informed by your own
+  more "objective" and "authentic"? Is your response informed by your own
   relationship to surveillance practices (visual and non-visual)? If so, how?
 - Question
   - Next week, artist [Jason Isolini](https://jisolini.com) will visit and share
