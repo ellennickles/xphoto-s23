@@ -28,14 +28,13 @@
 ### Resources
 
 - [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
-  share TBA
 - [Adobe's Color Wheel](https://color.adobe.com/create/color-wheel)
 - Arduino starter sketches
-  - [XPhoto_Nano33IoT_AccData]()
-  - [XPhoto_Nano33IoT_GyroData]()
-  - [XPhoto_NanoBLESense_TempData]()
-  - [XPhoto_NanoBLESense_MicData]()
-  - [XPhoto_Analog_2Readings_Threshold]()
+  - [XPhoto_Nano33IoT_AccData](https://github.com/ellennickles/xphoto-s23/blob/main/week5/XPhoto_Nano33IoT_AccData.ino)
+  - [XPhoto_Nano33IoT_GyroData](https://github.com/ellennickles/xphoto-s23/blob/main/week5/XPhoto_Nano33IoT_GyroData.ino)
+  - [XPhoto_NanoBLESense_TempData](https://github.com/ellennickles/xphoto-s23/blob/main/week5/XPhoto_NanoBLESense_TempData.ino)
+  - [XPhoto_NanoBLESense_MicData](https://github.com/ellennickles/xphoto-s23/blob/main/week5/XPhoto_NanoBLESense_MicData.ino)
+  - [XPhoto_Analog_2Readings_Threshold](https://github.com/ellennickles/xphoto-s23/blob/main/week5/XPhoto_Analog_2Readings_Threshold.ino)
 - p5 starter sketch (use Chrome)
   - [Serial input to p5](https://editor.p5js.org/enickles/sketches/njKjGNrbr)
 
