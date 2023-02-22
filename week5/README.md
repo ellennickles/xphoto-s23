@@ -72,4 +72,4 @@
     of a Laborer](https://jisolini.com/#/ballad-of-loosii-ninjas/), and come up
     with at least one (1) question for discussion.
 
-### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/JfwCTv7JqkieZ8yz8)
+### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9)
