@@ -21,7 +21,6 @@
   STEP 0: Install the library for the LSM6DS3 Inertial Module to read accelerometer values 
           Tools > Manage Libraries > LSM6DS3
   STEP 1: Observe sensor readings in serial monitor
-          (save and upload to Arduino) 
   STEP 2: Decide which direction to trigger capture and update serial.write("1")
   STEP 3: Update all other directions to serial.write("0");
   STEP 4: Comment out all the println() commands in loop()
