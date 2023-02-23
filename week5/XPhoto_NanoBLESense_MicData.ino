@@ -71,7 +71,7 @@ void loop() {
       // STEP 1: Observe range of sensor readings in serial monitor
       // STEP 3: Comment out serial.println() command
       soundValue = sampleBuffer[i];
-      // Serial.println(soundValue);
+      Serial.println(soundValue);
     }
     // clear the read count
     samplesRead = 0;
@@ -79,17 +79,17 @@ void loop() {
 
   // STEP 4: Uncomment the code in this section
   // If the value is above or below the threshold
-  if (soundValue > threshold) {
-    // check the capture state
-    if (!thresholdExceeded) {
-      // send the signal to the p5 web editor take a picture
-      Serial.write("1");
-      thresholdExceeded = true;
-    }
-  } else {
-    Serial.write("0");
-    thresholdExceeded = false;
-  }
+  // if (soundValue > threshold) {
+  //   // check the capture state
+  //   if (!thresholdExceeded) {
+  //     // send the signal to the p5 web editor take a picture
+  //     Serial.write("1");
+  //     thresholdExceeded = true;
+  //   }
+  // } else {
+  //   Serial.write("0");
+  //   thresholdExceeded = false;
+  // }
  
   delay(50);
 }
