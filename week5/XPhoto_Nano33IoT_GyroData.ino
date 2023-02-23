@@ -62,6 +62,7 @@ void loop() {
     IMU.readGyroscope(x, y, z);
   }
 
+  // STEP 1: Observe sensor readings in serial monitor
   // STEP 2: Decide which direction to trigger capture and update serial.write("1")
   // STEP 3: Update all other directions to serial.write("0");
   // STEP 4: Comment out all the println() commands in loop() (then save and upload to Arduino) 
