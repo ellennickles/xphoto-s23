@@ -44,7 +44,7 @@
 
 - Continue to work with sensor triggers and take a series of images, but add
   color this week. **Be deliberate about your color choices and placement in the
-  composition(s)**. Focus on one dominant color or work with a color scheme.
+  composition(s)**. Focus on one dominant color or work with a color scheme (check [our Miro board](https://tinyurl.com/xphoto-s23-miro) for reference).
 - Work with the same sensor, a new one, or several at time. Continue to consider: how is triggering the capture the result of a change (or inactivity) in the environment or an action (or reaction) of the body? Is the triggering active or passive? How does the choice of sensor and its context in the world contribute to the intentions or expressions of the image? The only rule is: no buttons or toggle switches on your Arduino to trigger captures.
 - Choose one of the images to post on your blog. Write a short reflection on your process and results. What does the image show? Why do you like the image? What qualities do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))? Why and how are you using color? What did you have trouble with? What would you do differently next time? Describe the experience of creating the images? What did you feel? What was surprising, enjoyable, or challenging?
 - If you work with a partner, each person needs to submit a blog post.
