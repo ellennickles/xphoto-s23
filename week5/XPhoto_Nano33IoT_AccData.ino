@@ -34,7 +34,7 @@ float x, y, z;
 int degreesX = 0;
 int degreesY = 0;
 
-int threshold = 80; // STEP 2, value is in degrees
+int threshold = 80; // STEP 2: Set your threshold value in degrees
 bool thresholdExceeded = false;
 
 void setup() {
@@ -58,8 +58,8 @@ void loop() {
     IMU.readAcceleration(x, y, z);
   }
 
-  // STEP 1 Observe range of sensor readings in serial monitor
-  // STEP 3 comment out serial.print() and serial.println()
+  // STEP 1: Observe range of sensor readings in serial monitor
+  // STEP 3: comment out serial.print() and serial.println()
   if (x > 0.1) {
     x = 100 * x;
     degreesX = map(x, 0, 97, 0, 90);
@@ -89,8 +89,8 @@ void loop() {
     Serial.println("  degrees");
   }
 
-  // STEP 4a uncomment the code in this section
-  // STEP 4b decide if you will use degreesX or degreesY value
+  // STEP 4a: Uncomment the code in this section
+  // STEP 4b: Decide if you will use degreesX or degreesY value
   // If the value is above or below the threshold
   //  if (degreesX > threshold) {
   //    // check the capture state
