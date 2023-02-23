@@ -58,6 +58,7 @@ void loop() {
     IMU.readAcceleration(x, y, z);
   }
 
+  // STEP 1 Observe range of sensor readings in serial monitor
   // STEP 3 comment out serial.print() and serial.println()
   if (x > 0.1) {
     x = 100 * x;
