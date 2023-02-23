@@ -82,7 +82,7 @@ void loop() {
   if (x < minusThreshold)
   {
     Serial.println("Collision right");
-    Serial.write("1");
+    Serial.write("0");
     delay(500);
   }
 
