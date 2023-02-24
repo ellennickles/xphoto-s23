@@ -67,7 +67,7 @@
   more "objective" and "authentic"? Is your response informed by your own
   relationship to surveillance practices (visual and non-visual)? If so, how?
 - Question
-  - Next week, artist [Jason Isolini](https://jisolini.com) will visit and share
+  - Next week artist [Jason Isolini](https://jisolini.com) will visit and share
     his work with our class. Review and interact(!) with his project, [The Ballard
     of a Laborer](https://jisolini.com/#/ballad-of-loosii-ninjas/), and come up
     with at least one (1) question for discussion.
