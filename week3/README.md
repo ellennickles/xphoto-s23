@@ -48,6 +48,8 @@
 
 ## Assignment due night of Wed Feb 15
 
+[How to get full credit on weekly assignments.](https://github.com/ellennickles/xphoto-s23#overview-of-assignments)
+
 ### PART 1 • EXPERIMENT & REFLECT
 - Capture multiple images of a scene from **at least two (2) to three (3) different angles** (or more!) simultaneously and in **black and white**. 
 - Maybe play with cause and effect, action and reaction, before and after? Or something completely different. Is the scene from a story, a mystery, a sensation? Is it a spontaneous or planned event? Consider the five senses, e.g. is it a loud moment or a quiet one? Decisive or indecisive?
