@@ -54,19 +54,29 @@ Perspective," _The Wretched of the Screen_, 2012)
 
 ## Assignment due night of Mon Mar 6
 
+[How to get full credit on weekly assignments.](https://github.com/ellennickles/xphoto-s23#overview-of-assignments)
+
 ### PART 1 • EXPERIMENT & REFLECT
 
-- Pick a theme and curate a collection of at least 10 images from
+- Pick a theme and curate a collection of at least ten (10) images from
   satellite and/or street view maps and/or open webcams. Be intentional and
   critical about why you are selecting the images and how you arrange them. How
-  does grouping these particular images alter or extend the meanings of the
-  individual images when they are presented together?
+  does grouping these particular images alter or extend their meanings when they
+  are presented together as a set instead of separately?
+- Refer to the examples in the class
+  [slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
+  for inspiration or come up with a new theme.
+- Not sure which images to include in your collection? Refer to [Is it alive? On
+  seeing what is right in front of
+  you...](https://github.com/ellennickles/xphoto-s23/blob/main/resources/is-it-alive.md)
+  by Joanne Dugan for some ideas.
 - Post the images on your blog. Write a short reflection on your process and
   results. What does the image show? Why do you like the image? What qualities
-  do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))? Why and how are you
-  considering color? What did you have trouble with? What would you do
-  differently next time? Describe the experience of creating the images? What
-  did you feel? What was surprising, enjoyable, or challenging?
+  do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))?
+  If you're working in color, how are you considering color choiices? What did
+  you have trouble with? What would you do differently next time? Describe the
+  experience of creating the images? What did you feel? What was surprising,
+  enjoyable, or challenging?
 
 ### PART 2 • [READ](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) & RESPOND
 
