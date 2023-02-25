@@ -40,6 +40,8 @@
 
 ## Assignment due night of Wed Mar 1
 
+[How to get full credit on weekly assignments.](https://github.com/ellennickles/xphoto-s23#overview-of-assignments)
+
 ### PART 1 • EXPERIMENT & REFLECT (PARTNERS OPTIONAL)
 
 - Continue to work with sensor triggers and take a series of images, but add
