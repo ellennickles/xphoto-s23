@@ -68,7 +68,7 @@ Perspective," _The Wretched of the Screen_, 2012)
   by Joanne Dugan for some ideas.
 - Post the images on your blog. Again, you can configure them as you see fit for
   the work on your blog. Write a short reflection on your process and
-  results. What does the image show? Why do you like the image? What qualities
+  results. What do the images show? Why do you like the image? What qualities
   do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))?
   If you're working in color, how are you considering color choices? What did
   you have trouble with? What would you do differently next time? Describe the
@@ -78,8 +78,8 @@ Perspective," _The Wretched of the Screen_, 2012)
 ### PART 2 • [READ](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) & RESPOND
 
 - Two (2) readings
-  - Read "[Classified Content](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)" by Mimi Ọnụọha
-  - Read “[The Pig and the Algorithm](https://circulationexchange.org/articles/Pig_and_Algorithm.html)” by Kate Palmer Albers
+  - Read "Classified Content" by Mimi Ọnụọha
+  - Read “The Pig and the Algorithm)” by Kate Palmer Albers
 - Respond
   - In your own words, what is the main message or argument of each essay? How
     are they similar or different in their messages? What evidence or examples
@@ -92,4 +92,4 @@ Perspective," _The Wretched of the Screen_, 2012)
     prepare at least one (1) question for discussion. **Please note that this
     project relates to Weeks 9 and 10 of our course.**
 
-### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/JfwCTv7JqkieZ8yz8)
+### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9)
