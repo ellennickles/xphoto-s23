@@ -24,7 +24,6 @@ Perspective," _The Wretched of the Screen_, 2012)
 ### Resources
 
 - [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
-  share TBA
 - A few sites to get started.. what else can you find?
   - Open webcams
     - [Insecam](http://www.insecam.org/en/)
