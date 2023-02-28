@@ -62,7 +62,7 @@ Perspective," _The Wretched of the Screen_, 2012)
   does grouping these particular images alter or extend their meanings when they are presented together as a set instead of separately?
 - Possible inspiration
   - Examples in the class [slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
-  - Maybe your subject matter is a narrative (fictional or real) or documentation of site or event?
+  - Maybe your subject matter is a narrative (fictional or real) or documentation of site, event, or a question?
 - Not sure which images to include in your collection? Refer to [Is it alive? On
   seeing what is right in front of you...](https://github.com/ellennickles/xphoto-s23/blob/main/resources/is-it-alive.md)
   by Joanne Dugan for some ideas.
