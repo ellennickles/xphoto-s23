@@ -66,7 +66,8 @@ Perspective," _The Wretched of the Screen_, 2012)
 - Not sure which images to include in your collection? Refer to [Is it alive? On
   seeing what is right in front of you...](https://github.com/ellennickles/xphoto-s23/blob/main/resources/is-it-alive.md)
   by Joanne Dugan for some ideas.
-- Post the images on your blog. Write a short reflection on your process and
+- Post the images on your blog. Again, you can configure them as you see fit for
+  the work on your blog. Write a short reflection on your process and
   results. What does the image show? Why do you like the image? What qualities
   do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))?
   If you're working in color, how are you considering color choices? What did
