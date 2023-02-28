@@ -14,26 +14,24 @@ Perspective," _The Wretched of the Screen_, 2012)
   and satellite and street view maps?
 - Compared to the last few weeks, do these new tools change our act of
   seeing?
-- How can we start to talk about the relationship between photography and
-  surveillance?
 
 ## Class 1 • Tue Feb 28 • Workshop
 
 ### In class
 
 - Workshop: Networked Images 1
-- Related work
 
 ### Resources
 
 - [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
   share TBA
 - A few sites to get started.. what else can you find?
-  - Open Webcams
+  - Open webcams
     - [Insecam](http://www.insecam.org/en/)
+    - [WorldCam](https://worldcam.eu/)
     - [EarthCam](https://www.earthcam.com/)
     - [WXYZ Webcams](https://wxyzwebcams.com/)
-  - Satellite and Street View Maps
+  - Satellite and street view maps
     - [Google Earth](https://earth.google.com/web/)
     - [Google Maps with Street View](https://www.google.com/streetview/)
     - [Bing Maps with Streetside](https://www.bing.com/maps)
@@ -61,19 +59,17 @@ Perspective," _The Wretched of the Screen_, 2012)
 - Pick a theme and curate a collection of at least ten (10) images from
   satellite and/or street view maps and/or open webcams. Be intentional and
   critical about why you are selecting the images and how you arrange them. How
-  does grouping these particular images alter or extend their meanings when they
-  are presented together as a set instead of separately?
-- Refer to the examples in the class
-  [slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
-  for inspiration or come up with a new theme.
+  does grouping these particular images alter or extend their meanings when they are presented together as a set instead of separately?
+- Possible inspiration
+  - Examples in the class [slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
+  - Maybe your subject matter is a narrative (fictional or real) or documentation of site or event?
 - Not sure which images to include in your collection? Refer to [Is it alive? On
-  seeing what is right in front of
-  you...](https://github.com/ellennickles/xphoto-s23/blob/main/resources/is-it-alive.md)
+  seeing what is right in front of you...](https://github.com/ellennickles/xphoto-s23/blob/main/resources/is-it-alive.md)
   by Joanne Dugan for some ideas.
 - Post the images on your blog. Write a short reflection on your process and
   results. What does the image show? Why do you like the image? What qualities
   do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))?
-  If you're working in color, how are you considering color choiices? What did
+  If you're working in color, how are you considering color choices? What did
   you have trouble with? What would you do differently next time? Describe the
   experience of creating the images? What did you feel? What was surprising,
   enjoyable, or challenging?
