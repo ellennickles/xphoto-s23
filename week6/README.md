@@ -48,6 +48,9 @@ Perspective," _The Wretched of the Screen_, 2012)
 ### Resources
 
 - [Add, remove, or share photos or videos in Google Maps](https://support.google.com/maps/answer/2622947?hl=en&co=GENIE.Platform=Desktop)
+- Rhizome's [Net Art Anthology](https://anthology.rhizome.org/)
+- [John Baldessari](https://www.moma.org/artists/304#works)
+- [Mierle Laderman Ukeles](https://www.wikiart.org/en/mierle-laderman-ukeles)
 
 ## Assignment due night of Mon Mar 6
 
