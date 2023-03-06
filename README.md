@@ -36,7 +36,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
   - Tue Feb 28 • Workshop: Networked Images 1
   - Thu Mar 2 • Artist Talk: [Jason Isolini](https://jisolini.com/)
 - Week 7:
-  - Tue Mar 7 • Share Week 5 or 6 Homework, Artist Talk: [Alexey Yurenev](https://www.yurenev.com/)
+  - Tue Mar 7 • Share Week 6 Homework, Artist Talk: [Alexey Yurenev](https://www.yurenev.com/)
   - Thu Mar 9 • Workshop: Networked Images 2
 - Spring Break (No Classes)
 - Week 8:
