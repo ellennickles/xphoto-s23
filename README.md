@@ -35,20 +35,20 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 - [Week 6](https://github.com/ellennickles/xphoto-s23/tree/main/week6)
   - Tue Feb 28 • Workshop: Networked Images 1
   - Thu Mar 2 • Artist Talk: [Jason Isolini](https://jisolini.com/)
-- Week 7:
+- [Week 7](https://github.com/ellennickles/xphoto-s23/tree/main/week7)
   - Tue Mar 7 • Share Week 6 Homework, Artist Talk: [Alexey Yurenev](https://www.yurenev.com/)
   - Thu Mar 9 • Workshop: Networked Images 2
 - Spring Break (No Classes)
-- Week 8:
+- Week 8
   - Tue Mar 21 • Share Week 7 Homework
   - Thu Mar 23 • Workshop: Automatic Photomontage
-- Week 9:
+- Week 9
   - Tue Mar 28 • Workshop: Generative Images 1 (Datasets)
   - Thu Mar 30 • Share Week 8 Homework
-- Week 10:
+- Week 10
   - Tue Apr 4 • Share Week 9 Homework, Workshop: Generative Images 2 (GAN Training)
   - Thu Apr 6 • Workshop continued
-- Week 11:
+- Week 11
   - Tue Apr 11 • Share Week 10 Homework, Final Project Assigned
   - Thu Apr 13 • Artist Talk: [Zach Nader](https://www.zachnader.art/)
 - Week 12: Final Project Proposals
