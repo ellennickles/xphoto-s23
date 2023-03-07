@@ -6,7 +6,6 @@ single point of view is being supplemented (and often replaced) by multiple
 perspectives, overlapping windows, distorted flight lines, and divergent
 vanishing points. (Hito Steyerl, "In Free Fall: A Thought Experiment on Vertical
 Perspective," _The Wretched of the Screen_, 2012)
-)
 
 ## Questions
 
