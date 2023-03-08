@@ -18,6 +18,8 @@
 ### Resources
 
 - [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
+- [Google's Cloud Vision AI](https://cloud.google.com/vision/)
+- [This person does not exist](https://thispersondoesnotexist.xyz/)
 
 ## Class 2 • Thu Mar 9 • Workshop
 
