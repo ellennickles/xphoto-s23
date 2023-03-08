@@ -42,7 +42,7 @@
 - Curate a collection of at least (10) images found on the Internet. **Use a
   different method from the in-class exercise.** Be intentional and critical
   about why you are selecting the images and how you arrange them. How are the
-  images related to one another? How does how the images are labeled,
+  images related to one another? How does _how_ the images are labeled,
   categorized, sorted, filtered, and/or accessed online produce meaning? What
   about the [metadata](https://en.wikipedia.org/wiki/Metadata) of image files
   that we might not normally see? Will the collection be a sequence or a series?
