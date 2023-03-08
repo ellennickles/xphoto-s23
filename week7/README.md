@@ -27,6 +27,7 @@
 
 - Series vs sequence
 - Workshop: Networked Images 2
+- Check-in survey
 
 ### Resources
 
