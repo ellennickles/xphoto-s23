@@ -47,9 +47,6 @@
   about the [metadata](https://en.wikipedia.org/wiki/Metadata) of image files
   that we might not normally see? Will the collection be a sequence or a series?
 - Possible inspiration from examples in the class [slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO)
-- Not sure which images to include in your collection? Refer to [Is it alive? On
-  seeing what is right in front of you...](https://github.com/ellennickles/xphoto-s23/blob/main/resources/is-it-alive.md)
-  by Joanne Dugan.
 - Post the images on your blog. Configure them as you see fit for
   the work on your blog. How does grouping these particular images alter or
   extend their meanings when they are presented together instead of
