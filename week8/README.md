@@ -61,11 +61,32 @@
   class examples to generate more options for yourself. Before you upload the
   images to your p5 sketch, double-check the [Image Preparation Checklist]() on
   the slides from class.
-- Post the images on your blog, and write a short reflection on your process and results. What do the images show? Why do you like them? What qualities do you like best (see [Elements of a Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))? What did you have trouble with? What would you do differently next time? Describe the experience of finding and selecting the images? Do you feel like a photographer? What was surprising, enjoyable, or challenging?
+- Post the images on your blog, and write a short reflection on your process and
+  results. What do the images show? Why do you like them? What qualities do you
+  like best (see [Elements of a
+  Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))?
+  What did you have trouble with? What would you do differently next time?
+  Describe the experience of finding and selecting the images? Do you feel like
+  a photographer? What was surprising, enjoyable, or challenging?
 
 ### PART 2 • [READ](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) & RESPOND
 
-- xx
+- Read *Making AI Art Responsibly: A Field Guide* by Emily Saltz, Lia Coleman,
+  and Claire Leibowicz, for critical questions to consider when using AI
+  approaches to create art.
+- Read *Origins and Endpoints of Image Training Datasets Created “In the Wild”*
+  by Adam Harvey on the origins of common AI image training datasets consisting
+  of images of human faces.
+- The Harvey paper briefly mentions the dataset, Flickr Faces High Quality
+  (FFHQ). In two weeks, we will use FFHQ as part of our process to
+  computationally generate images. Research the FFHQ dataset. What can you find
+  out about it? What is it? Where is it from? Who made it and how? When and for
+  what purpose(s) was it created? Can you address some of the concerns and
+  questions posed in the Harvey paper and in the field guide to *Making AI Art
+  Reponsibly*? Are there any questions that are tricky to answer? Be sure to
+  cite your research sources. Based on what you find, how do you feel about
+  using this dataset in our course?
+- Include at least one (1) question for discussion or further reflection.
 
 ### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9)
 
