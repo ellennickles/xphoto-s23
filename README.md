@@ -39,7 +39,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
   - Tue Mar 7 • Share Week 6 Homework, Artist Talk: [Alexey Yurenev](https://www.yurenev.com/)
   - Thu Mar 9 • Workshop: Networked Images 2
 - Spring Break (No Classes)
-- Week 8
+- [Week 8](https://github.com/ellennickles/xphoto-s23/tree/main/week8)
   - Tue Mar 21 • Share Week 7 Homework
   - Thu Mar 23 • Workshop: Automatic Photomontage
 - Week 9
