@@ -16,7 +16,6 @@
 - Workshop: Generative Images I (Datasets)
   - Intro to generative images and GANs
   - Creating / preparing datasets
-  - (if time) Preview: GAN Training in Google Colab
 
 ### Resources
 
