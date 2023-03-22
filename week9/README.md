@@ -75,7 +75,7 @@
   percentage, is the difference between a photograph taken with a modern digital
   camera and one that is completely computer-generated significant? If it looks
   like a photograph and functions like a photograph, then does it matter how it
-  was made? *Is seeing still believing?* What makes a photograph "trustworthy"?
+  was made? (And what about text-to-image models?) *Is seeing still believing?*
 - Include at least one (1) question for discussion or further reflection.
 
 ### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9)
