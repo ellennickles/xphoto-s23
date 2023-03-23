@@ -25,6 +25,7 @@
 ### In class
 
 - Workshop: Automatic Photomontage
+- Zoom recoding: I sent a link to the recording in the post-class email
 
 ### Resources
 
@@ -72,15 +73,18 @@
   distinct. Consider the variety of photomontages presented in the reading due
   this week, as well as shown in class. Play with the different code-based
   techniques that we explored in our workshop.
-- TIPS: Remember that in order to work with images in the p5 web editor, the
-  file sizes should be less than 5MB, ideally as small in file size as possible
-  without compromising image quality. When working with many images, make sure
-  they are the same file type (all jpgs or pngs) and name the files with
-  numbers to make easy to load into an array with a loop. See the example
-  sketches above for reference.
-- Post the images on your blog, and write a short reflection on your process and
-  results. What do the images show? Why do you like them? What qualities do you
-  like best (see [Elements of a
+- TIPS:
+  - In order to work with images in the p5 web editor, the file sizes should be
+    less than 5 MB, ideally as small in file size as possible without compromising image quality, unless your experiment explores degraded image
+    resolution, of course!
+  - When working with many images in loops, make sure that:
+    - all images share the same file type, e.g. all jpgs or pngs;
+    - rename the files with numbers BEFORE uploading them to the p5 web editor(see the example sketches above for reference).
+  - After you upload images to the your project's file directory, save your
+    sketch in order to access and manipulate them with code.
+- Post your photomontages on your blog, and write a short reflection on your
+  process and results. What do the images show? Why do you like them? What
+  qualities do you like best (see [Elements of a
   Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))?
   What did you have trouble with? What would you do differently next time?
   Describe the experience of finding and selecting the images? Do you feel like
