@@ -72,6 +72,12 @@
   distinct. Consider the variety of photomontages presented in the reading due
   this week, as well as shown in class. Play with the different code-based
   techniques that we explored in our workshop.
+- TIPS: Remember that in order to work with images in the p5 web editor, the
+  file sizes should be less than 5MB, ideally as small in file size as possible
+  without compromising image quality. When working with many images, make sure
+  they are the same file type (all jpgs or pngs) and name the files with
+  numbers to make easy to load into an array with a loop. See the example
+  sketches above for reference.
 - Post the images on your blog, and write a short reflection on your process and
   results. What do the images show? Why do you like them? What qualities do you
   like best (see [Elements of a
