@@ -25,7 +25,7 @@
 ### In class
 
 - Workshop: Automatic Photomontage
-- Zoom recoding: I sent a link to the recording in the post-class email
+- Zoom recording (link to recording in post-class email)
 
 ### Resources
 
