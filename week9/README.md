@@ -33,12 +33,12 @@
   - [How to Record the Screen on Your Windows PC or Mac](https://www.pcmag.com/how-to/how-to-record-the-screen-on-your-windows-pc-or-mac)
   - [Photochrom Travel Views](https://www.flickr.com/photos/library_of_congress/albums/72157612249760312), [Photochrom](https://en.wikipedia.org/wiki/Photochrom) process
 
-## Class 2 • Thu Mar 30 • Share Week 8 Homework
+## Class 2 • Thu Mar 30 • Share Week 8 Homework &  Workshop
 
 ### In class
 
 - Homework review
-- GAN Projects
+- Workshop: Generative Images I (Datasets) continued
 
 ### Resources
 
