@@ -42,7 +42,7 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 - [Week 8](https://github.com/ellennickles/xphoto-s23/tree/main/week8)
   - Tue Mar 21 • Share Week 7 Homework
   - Thu Mar 23 • Workshop: Automatic Photomontage
-- Week 9
+- [Week 9](https://github.com/ellennickles/xphoto-s23/tree/main/week9)
   - Tue Mar 28 • Workshop: Generative Images 1 (Datasets)
   - Thu Mar 30 • Share Week 8 Homework
 - Week 10
