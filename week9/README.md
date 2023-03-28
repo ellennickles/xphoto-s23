@@ -75,7 +75,8 @@
   percentage, is the difference between a photograph taken with a modern digital
   camera and one that is completely computer-generated significant? If it looks
   like a photograph and functions like a photograph, then does it matter how it
-  was made? (And what about text-to-image models?) *Is seeing still believing?*
+  was made? (And what about the generated images from text-to-image models that
+  we used in the first week of the semester?) *Is seeing still believing?*
 - Include at least one (1) question for discussion or further reflection.
 
 ### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9)
@@ -88,8 +89,8 @@ ____
   browser to train a machine learning model to generate images. For our
   purposes, our Colab account requires a Google Drive plan with a large amount
   of storage space, which we already have through NYU (at least through 2024).
-- **Highly recommended!** Log into your NYU Google Drive account, then sign up
-  for [Google Colab](https://colab.research.google.com/signup). Google Colab Pro
+- **Highly recommend:** **Log into your NYU Google Drive account (because it has
+  unlimited storage space at the time of this writing)**, and sign up for [Google Colab](https://colab.research.google.com/signup). Google Colab Pro
   is highly recommended at $10.88 per month with taxes. This is a monthly
   recurring charge, but the subscription is easy to cancel at any time.
 - We will only use Colab for one week, however you might decide to continue to
