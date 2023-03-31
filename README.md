@@ -246,9 +246,9 @@ point for each of the following:
 - The response addresses the reading prompt;
 - includes a position, opinion, and/or proposal that does not merely summarize what others have said, but represents your own thoughts even if they are tentative;
 - includes at least one (1) question to bring to our group for discussion;
-- is submitted on time.
+- is submitted on time.  
 
-**Late assignments**: unless we make other arrangements due to extenuating circumstances, weekly assignments will be accepted up to one (1) week late for partial credit.  
+[Updated] **Late assignments** will be accepted for partial credit. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. The last day to submit late work for partial credit is Monday, May 8, 2023, at 12:00pm (noon).
 
 The final project is expected to be completed in three stages (proposal, prototype, and implementation and presentation). Specific grading criteria for each stage will be provided later in the semester.
 
