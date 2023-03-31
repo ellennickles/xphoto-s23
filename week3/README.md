@@ -69,7 +69,7 @@
 
 ___
 
-## Prepare for **Next Week** and Week 5
+## Prepare for **next week** and Week 5
 
 - Starting Tue Feb 14 we'll use physical computing to create alternative shutter buttons. Here's a checklist to prepare. Especially with global supply chain issues and shipping delays these days, please don't wait until the last minute if you need to order anything.
 - Gather the following materials:
