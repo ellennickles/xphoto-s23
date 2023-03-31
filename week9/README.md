@@ -84,7 +84,7 @@
 
 ____
 
-## Prepare for Next Week
+## Prepare for next week
 
 - Next week we will use Google Colaboratory, or Colab, to run code in the
   browser to train a machine learning model to generate images. For our
