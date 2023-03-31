@@ -60,7 +60,8 @@
 - Store your dataset in Google Drive and provide a link to it from your blog
   post.
 - Also a save a local copy of the entire dataset in a folder on your computer so
-  that it is ready to use in class next week to practice training a GAN.
+  that it is ready to use in class next week to practice training a GAN. Make sure
+  that the folder name contains only letters or numbers and NO SPACES.
 - Write a short reflection about your image choices, your process, results, and
   any questions that came up for you.
 
