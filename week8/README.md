@@ -114,7 +114,7 @@
 
 ___
 
-### Prepare for Next Week
+### Prepare for next week
 
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - After the installation, launch the application and navigate to *Extensions*
