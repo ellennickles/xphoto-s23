@@ -48,7 +48,7 @@
   your process and results. For how long did you train your model? What do the
   images show? Anything surprising? Do you like them, and if so, what qualities
   do you like best (see [Elements of a
-  Photograph](https://github.com/ellennickles/xphoto-s22/blob/main/resources/photograph-elements.md))?
+  Photograph](https://github.com/ellennickles/xphoto-s23/blob/main/resources/photograph-elements.md))?
   What did you have trouble with or what was confusing? Do you feel like a
   photographer?
 - **Tips**
