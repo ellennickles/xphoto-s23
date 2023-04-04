@@ -39,7 +39,7 @@
   Notebook](https://drive.google.com/drive/u/1/folders/1JPaDSHUZY488l9r3yDJCqpqHBH-otl_T),
   budget enough time this week to train (or continue training) a StyleGAN2-ADA
   model for as long as you can in Google Colab. Monitor the progress in the
-  `results` folder by checking the *fakes* images. If you don't see any
+  **results** folder by checking the *fakes* images. If you don't see any
   significant changes over time, it's probably time to stop training.
 - **Generate** • No matter how far you get, find a .pkl file (aka *network
   snapshot*) with results that look interesting or promising to you in some way,
@@ -52,7 +52,7 @@
   What did you have trouble with or what was confusing? Do you feel like a
   photographer?
 - **Tips**
-  - Make sure to run the configuration cell and save those changes before you
+  - Make sure to run the configuration cells and save those changes before you
     run the training cell.
   - If you copy paths to filenames and folders, any spaces in those names will
     throw errors.
@@ -68,7 +68,7 @@
   - Every time you start or resume a training session, a new folder will be
     created in the **colab-sg2-ada-pytorch** > **stylegan2-ada-pytorch** >
     **results** folder in your Google Drive.
-  - Monitor the trainig progress by looking at the "fakes" images in that
+  - Monitor the training progress by looking at the "fakes" images in that
     **results** folder.
   - In Part 3 of the Notebook, you can generate images from any .pkl
     file (network snapshot). Try generating some images from early ones and
@@ -90,8 +90,9 @@
     practice.
   - Read "Petrified Photography" by Alexander R. Galloway
 - Respond
-  - In your own words...
-- Include in your response at least one (1) question to ask Zach during his
-  visit.
-
+  - What connections can you draw between these two readings? How might the
+    Galloway piece relate to Zach’s work?
+  - Include in your response at least one (1) question to ask Zach during his
+    visit.
+  
 ### PART 3 • SUBMIT • [Assignment Form](https://forms.gle/bT1L7qHnrvmQ23sN9)
