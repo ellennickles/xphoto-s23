@@ -44,7 +44,9 @@ Your final project for this course is a three (3) week assignment to be complete
 
 - Computation is not a required element for the final project. Choose the
     tools that make the most sense for your project.
-- Final projects can be collaborations with anyone in any class.
+- Final projects can be collaborations with anyone in any class. If you are
+  collaborating with a partner or group, everyone is still expected document
+  their work.
 - Final projects can be one part of a larger project integrated with a
     different class.
 - Keeping things simple and small in scope is a plus. If your project idea is
@@ -147,8 +149,9 @@ Your final project for this course is a three (3) week assignment to be complete
     experiences, dreams, etc.
   - **Source material** • Do you have any drawings, images, videos, text, etc.
     to help make sense of your idea?
-  - **Context/Audience** • Is there a story? Who is this for? How will people
-    experience it? What kind of experience would you like people to have?
+  - **Context/Audience** • Is there a story? Who is this for? Is it for you? How
+    will people experience it? What kind of experience would you like people to
+    have?
   - **Production** • What technical steps will you need to take to realize your
     idea?
   - **Code** • If you project uses code, do you have links to past projects,

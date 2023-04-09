@@ -16,7 +16,7 @@
 
 ## Assignment due night of Mon Apr 24 or Wed Apr 26*
 
-*Projects have been randomly selected to share on either Mon or Wed. [Check for your date](https://drive.google.com/drive/u/0/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) in our Google Drive folder.
+*_Projects have been randomly selected to share on either Mon or Wed. [Check for your date](https://drive.google.com/drive/u/0/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) in our Google Drive folder._
 
 ### Preparing for user testing next week
 
