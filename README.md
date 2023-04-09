@@ -224,7 +224,7 @@ There are two assignments each week:
 
 You are welcome to combine both parts into one blog post. Check the [Schedule and Assignments](https://github.com/ellennickles/xphoto-s23#schedule-and-assignments) above for links to specific homework descriptions, due dates, and submission links.
 
-#### Final Project
+#### [Final Project](https://github.com/ellennickles/xphoto-s23/tree/main/week11#final-project-assignment)
 
 The course will culminate with the completion of a final project to be shared in class. You are expected to push your abilities to produce something that builds off or is inspired by the concepts explored during the semester. For the final project you are expected to present a project proposal, create a working prototype to share for peer feedback, and present a completed final project to our class.
 
@@ -250,7 +250,7 @@ point for each of the following:
 
 [Updated] **Late assignments** will be accepted for partial credit. If you anticipate any challenges meeting the assignment deadlines, please reach out to me so that we can consider your options together. The last day to submit late work for partial credit is Monday, May 8, 2023, at 12:00pm (noon).
 
-The final project is expected to be completed in three stages (proposal, prototype, and implementation and presentation). Specific grading criteria for each stage will be provided later in the semester.
+The [final project](https://github.com/ellennickles/xphoto-s23/tree/main/week11#final-project-assignment) is expected to be completed in three stages (proposal, prototype, and implementation and presentation). Specific grading criteria for each stage will be provided later in the semester. 
 
 **Final course evaluation** will be based on participation and attendance, and the completion of all assignments, including the final project, according to this breakdown:
 
