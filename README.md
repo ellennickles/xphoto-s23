@@ -48,16 +48,16 @@ IMNY-UT.232 • Interactive Media Arts (IMA) • NYU Tisch School of the Arts �
 - [Week 10](https://github.com/ellennickles/xphoto-s23/tree/main/week10)
   - Tue Apr 4 • Share Week 9 Homework, Workshop: Generative Images 2 (GAN Training)
   - Thu Apr 6 • Workshop continued
-- Week 11
+- [Week 11](https://github.com/ellennickles/xphoto-s23/tree/main/week11)
   - Tue Apr 11 • Share Week 10 Homework, Final Project Assigned
   - Thu Apr 13 • Artist Talk: [Zach Nader](https://www.zachnader.art/)
-- Week 12: Final Project Proposals
+- [Week 12: Final Project Proposals](https://github.com/ellennickles/xphoto-s23/tree/main/week12)
   - Tue Apr 18 • Proposals Group 1
   - Thu Apr 20 • Proposals Group 2
-- Week 13: Final Project Testing
+- [Week 13: Final Project Testing](https://github.com/ellennickles/xphoto-s23/tree/main/week13)
   - Tue Apr 25 • Testing Group 1
   - Thu Apr 27 • Testing Group 2
-- Week 14: Final Project Presentations
+- [Week 14: Final Project Presentations](https://github.com/ellennickles/xphoto-s23/tree/main/week14)
   - Tue May 2 • Presentations Group 1
   - Thu May 4 • Presentations Group 2
 
