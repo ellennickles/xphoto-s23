@@ -66,6 +66,7 @@ Your final project for this course is a three (3) week assignment to be complete
 - I encourage you to dream big and run wild with ideas. If you need inspiration,
   consider looking back at the record of questions you asked in your blog posts.
   Here are some possible directions, but you can also explore something entirely different!
+- Be sure to check out examples from last year's student in the [Slides](https://drive.google.com/drive/u/1/folders/1bp6ZJ3krohBmhxB699nj1edjueV8w-EO) for this week, too.
 - **Make a book or zine** • Continue to develop one of your experiments from
     this semester and make book or zine of a sequence or series of photographs.
     There is a strong tradition of photobooks in photography. For context and
