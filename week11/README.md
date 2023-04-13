@@ -17,6 +17,15 @@
 
 - Guest [Zach Nader](https://www.zachnader.art/)
 
+### Resources
+
+- [Sarah Sze and the Art of Tracking Time](https://www.nytimes.com/2023/04/06/arts/design/sarah-sze-guggenheim-sculpture-timelapse.html)
+- [Pieter Schoolwerth](https://www.petzel.com/artists/pieter-schoolwerth/biography)
+- [Penelope Umbrico](http://penelopeumbrico.net/)
+- [Tala Madani](https://art21.org/artist/tala-madani/)
+- [Vija Celmins](https://matthewmarks.com/artists/vija-celmins/)
+- [Sigmar Polke](https://www.artnet.com/artists/sigmar-polke/)
+
 ## Final Project Assignment
 
 *Subject to updates as projects evolve
