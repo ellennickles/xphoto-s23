@@ -13,4 +13,4 @@
 ### In class
 
 - Presentations 🙌
-- Course evaluation
+- [Course evaluation](https://go.blueja.io/aoTSyh6dQUmPFX8_ixHIZA)
