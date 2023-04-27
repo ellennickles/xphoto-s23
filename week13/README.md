@@ -41,6 +41,8 @@ guidelines if you aren't sure what to include:
 - **Next steps** • If you had more time to work on this, what would you do next?
 - If the project is a collaboration, each person is expected to submit a post
   documenting their contributions.
+  
+SUBMIT FINAL DOCUMENTATION HERE • [Assignment Form](https://docs.google.com/forms/d/e/1FAIpQLSepYgolSEg_g2lcHBJGfO4rG6dBMOdweXIoQ4dnZtYPjFpK_A/viewform)
 
 ### PART 3 • PREPARE A PRESENTATION
 
@@ -53,5 +55,3 @@ guidelines if you aren't sure what to include:
 - HINT: Use your final documentation blog post as an outline.
 
 This assignment is worth ten (10) points: five (5) for the project implementation and five (5) for the documentation and presentation.
-
-### SUBMIT • [Assignment Form](https://docs.google.com/forms/d/e/1FAIpQLSepYgolSEg_g2lcHBJGfO4rG6dBMOdweXIoQ4dnZtYPjFpK_A/viewform)
